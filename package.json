@@ -1,0 +1,16 @@
+{
+  "name": "KGraph",
+  "description": "Knowledge Graph server",
+  "main": "./server.js",
+  "scripts": {
+    "dev": "node_modules/coffee-script/bin/./coffee -c *.coffee && node server.js"
+  },
+  "dependencies": {
+    "redis": "^2.6.0",
+    "neo4j": "^2.0.0-RC2",
+    "bluebird": "^3.4.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.12.0"
+  }
+}

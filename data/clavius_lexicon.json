@@ -1,0 +1,5974 @@
+{
+  "id": "clavius_lexicon",
+  "nodes": [
+    {
+      "id": 121,
+      "label": "Latus"
+    },
+    {
+      "id": 227,
+      "label": "Tropic Of Capricorn"
+    },
+    {
+      "id": 129,
+      "label": "Linea Recta",
+      "definition": "Recta linea est, quae ex aequo sua interiacet puncta. Triplex omnino est linea apud Mathematicos, recta, circularis, quam et curvam dicunt, et mixta, sive composita ex utraque. Ex his describit hoc loco Euclides lineam rectam, quam dicit esse eam, quae aequaliter inter sua puncta extenditur, hoc est, in qua nullum punctum intermedium ab extremis sursum, aut deorsum, vel huc, atque illuc deflectendo substulat; in qua denique nihil flexuosum reperitur. Hanc nobis ad viuum esprimi filum aliquod tenue sumam vi extentum : In eo enim omens partes mediae cum extremis aequalem obtinent situm, neque ulla est alia sublimior, aut umilio, sed omnes equabiliter inter extremos fines positae progrediuntur. Proclus hanc definitoionem exponens ait, tunc demum lineam aliquam ex aequo sua interiacere puncta, quando aequale occupa spatium ei quod inter sua situm est puncta exrema. (...) Plato rectam lineam pulchre sic definit : linea recta est, cuius media obumbrant extrema. (…); quod quidem non contingit in lineis non rectis… Archimeds vero ait, lineam rectam esse minimam earum, quae terminos habent eosdem; (…) Campanus denique describens rectam lineam, vocat eam brevissimam ex uno puncto in aliud extensionem. Quemadmodum autem matematici per fluxum puncti imaginarium concipiunt describi lineam, ita per qualiattem fluxus puncti qualitatem lineae descriptae intelligunt. Si namque punctum recta fluere concipiatur per brevissimum spatium, ita ut neque in han partem, neque in illam deflectat, sed aequabilem quendam motum, atque incessum teneat, ducetur linea illa descripta, recta (...) (Eucl. El. 23)"
+    },
+    {
+      "id": 70,
+      "label": "Corpus Platonicum",
+      "definition": "Solida illa quinque regolaria, quae corpora Platonica dici solent. (Eucl. El. 18)"
+    },
+    {
+      "id": 208,
+      "label": "Sphere"
+    },
+    {
+      "id": 18,
+      "label": "Angulus Sphaeralis",
+      "definition": "Sunt et alia duo genera angulorum, quorum prius solidos comprehendit, de quibus Euclides differit in Stereometria, quique in corporibus existunt; posterius vero sphaerales, qui in superficie sphaere constituuntue ex circulorum maximorum circumferentis, er de quibus copiose agitur in sphaericis elementis Menelai. Horum autem omnium explicatio in alium locum a nobis reiicitur, cum hic de solis planis angulis sit futurus sermo. (Eucl. El. 26)"
+    },
+    {
+      "id": 256,
+      "label": "Ciculus Sphaerae",
+      "definition": "Circvli ſphæræ ſunt 10. quorum hæc ſunt nomina. Aequinoctialis, Zodiacus, Colurus ſolſtitiorum, Colurus æquinoctiorum, Meridianus, Horizon, Tropicus Cancri, Tropicus Capricorni, Circulus arcticus, \u0026 circulus antarcticus. Priores ſex, maiores dicuntur, ſiue maximi, poſteriores quatuor, minores, ſiue non maximi."
+    },
+    {
+      "id": 164,
+      "label": "Position Circle"
+    },
+    {
+      "id": 157,
+      "label": "Polus Antarcticus"
+    },
+    {
+      "id": 83,
+      "label": "Curvilinear Angle"
+    },
+    {
+      "id": 136,
+      "label": "Moon Sphere"
+    },
+    {
+      "id": 99,
+      "label": "Figura Multilatera",
+      "definition": "Multilaterae (scil. figurae) autem, quae sub pluribus, quam quatuor, rectis lineis comprehenduntur. […] Quis enim ex dictis non colligat, figuram quinque lineis rectis contentam appellari quinquilateram, et sex lineis comprehensam sexilateram, atque reliquas eodem modo. Sic etiam dici poterunt huiusmodi figurae quinquangulae, sexangulae, septangulae, etc. (El. Eucl. 29)."
+    },
+    {
+      "id": 163,
+      "label": "Polus Septentrionalis",
+      "definition": "VNDE notandum, quòd polus mundi, qui nobis ſemper apparet, dicitur polus ſeptentrionalis, arcticus, uel borealis. Septentrionalis dicitur à ſeptentrione, hoc eſt, à minori urſa, quæ dicitur à ſeptem, \u0026 trion, quod eſt bos; quia ſeptem ſtellæ, quæ ſunt in vrſa, tarde mouentur ad modum bouis, cum ſint propinquę polo. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 224,
+      "label": "Tropicus Cancri"
+    },
+    {
+      "id": 37,
+      "label": "Cingulus Primi Motus",
+      "definition": "Dicitur ergo cingulus primi motus, quia cingit, ſiue diuidit primum mobile, ſcilicet ſphæram nonam, in duo æqualia, æquidiſtans a polis mundi. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 6,
+      "label": "Angulus"
+    },
+    {
+      "id": 15,
+      "label": "Angulus Rectilineus",
+      "definition": "Cum autem, quae angulum continent lineae, rectae fuerint, rectilineus ille angulus appellatur. (El. Eucl 26)"
+    },
+    {
+      "id": 275,
+      "label": "Circle Of:circle Of World Poles"
+    },
+    {
+      "id": 254,
+      "label": "Jupiter\u0027jupiter\u0027jupiter Sphere"
+    },
+    {
+      "id": 85,
+      "label": "Plane Figure"
+    },
+    {
+      "id": 217,
+      "label": "Triangulum Aequilaterum",
+      "definition": "Trilaterarum autem figurarum, aequilaterum est triangulum, quod tria latera habet aequalia. […] Porro ex aequalitate omnium trium laterum trianguli equilateri infertur, omnes tres eius angulos aequales quoque esse, ceu ad quintam propositionem huius libri demonstrabimus. (El. Eucl. 29)"
+    },
+    {
+      "id": 63,
+      "label": "Circulus Per Polos Mundi Ductus"
+    },
+    {
+      "id": 102,
+      "label": "Figura Rectilinea",
+      "definition": "Rectilineae figurae sunt, quae sub rectis lineis continentur."
+    },
+    {
+      "id": 143,
+      "label": "Mixed Line"
+    },
+    {
+      "id": 78,
+      "label": "Line"
+    },
+    {
+      "id": 147,
+      "label": "North Pole"
+    },
+    {
+      "id": 183,
+      "label": "Saturn Sphere"
+    },
+    {
+      "id": 267,
+      "label": "Ninth Sphere"
+    },
+    {
+      "id": 184,
+      "label": "Semicirculus",
+      "definition": "Semicirculus vero est figura, qaue continetur sub diametro, \u0026 sub ea linea, quae de circuli peripheria aufertur."
+    },
+    {
+      "id": 176,
+      "label": "Rectangulum",
+      "definition": "Vel contra, rectangulum, et non aequilaterum, nequaquam quadratum appellabitur. (El. Eucl. 30) Altera vero parte longior figura est, quae rectangula quidem, at aequilatera non est. (El. Eucl. 31)"
+    },
+    {
+      "id": 270,
+      "label": "Seventh Sphere"
+    },
+    {
+      "id": 178,
+      "label": "Right Sphere"
+    },
+    {
+      "id": 235,
+      "label": "Zodiacus"
+    },
+    {
+      "id": 212,
+      "label": "Surface"
+    },
+    {
+      "id": 139,
+      "label": "Motus Rationalis",
+      "definition": "Vnde ſciendum, quod primus motus, di citur motus primi mobilis, hoc eſt, nonę ſphæræ, ſiue cœli ultimi, qui eſt ab oriente per occidentem, rediens iterum in orientem: qui ctiam dicitur motus rationalis, ad ſimilitudinem motus rationis, qui eſt in microcoſmo, id eſt, in homine, ſcilicet quando fit conſider atio à creatore per creatur as in creator em, ibi ſiſtendo. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 185,
+      "label": "Solidum"
+    },
+    {
+      "id": 56,
+      "label": "Circulus Latitudinum",
+      "definition": "Circvli latitudinum, qui per polos Zodiaci, \u0026 ſingula Eclipticæ puncta deſcribuntur. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 151,
+      "label": "Obtuse Angle"
+    },
+    {
+      "id": 11,
+      "label": "Angulus Mixtus",
+      "definition": "Angulus omnis planus conficitur aut ex lineis duabus rectis, qui quidem rectilineus dicitur, et de quo solum hic agit Euclides : aut ex duabus curvis, quem curvilineum vocare licet; aut ex una curva et altera recta, qui non inepte mixtus appellatur. (El. Eucl. 26)"
+    },
+    {
+      "id": 106,
+      "label": "Star"
+    },
+    {
+      "id": 207,
+      "label": "Solid Angle"
+    },
+    {
+      "id": 2,
+      "label": "Astronomical Term"
+    },
+    {
+      "id": 38,
+      "label": "Circle Of Altitude"
+    },
+    {
+      "id": 135,
+      "label": "Meridianus",
+      "definition": "Quoniam uero ex decem ſphæræ circulis primarijs Meridianus, atque Horizon ſunt prorſus immobiles in quacunque regione ita ut, etiamſi cœlum primum perpetuo, ac indeſinenter circumferatur, prędicti duo circuli nihilominus immoti omnino concipiãtur, \u0026 firmi. (Comm- De Sphaera, Cap.2)."
+    },
+    {
+      "id": 114,
+      "label": "Hour Circle"
+    },
+    {
+      "id": 259,
+      "label": "Eighth Sphere"
+    },
+    {
+      "id": 265,
+      "label": "Horizon C"
+    },
+    {
+      "id": 68,
+      "label": "Colurus Aequinoctiorum"
+    },
+    {
+      "id": 154,
+      "label": "Planeta",
+      "definition": "Postremo reliquæ ſeptem ſphæræ, quarum ſingulæ ſingulas continent ſtellas, planetarum ſtellæ uocantur, quoniam deferunt ſtellas, ſiue aſtra, qui planetæ ſunt dicti, id eſt, aſtra erratica, ſeu Errones, non quòd ita in cœlo oberrent, ut non ordinato, certo, \u0026 determinato motu uehantur: Hac enim ratione non poſſet de illis haberi ſcientia, quod uerum non eſt, cum habeãt certas motuũ periodos: Sed ob id aſtra erratica uocantur, quod neque ipſa inter ſe eandem ſemper habeant diſtantiam, neq. cum ſtellis fixis octaui orbis eundem ſeruent ordinem. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 214,
+      "label": "Trapezium",
+      "definition": "Praeter has autem, reliquae quadrilaterae figurae, trapezia appellentur. Reliquas omnes figuras quadrilateras, quae a praedictis quatuor differunt, ita ut neque latera omnia aequalia, neque omnes angulos aequales, seu rectos, neque latera bina opposita; neque angulos binos oppositos habeant inter sese aequales, generali vocabulo Trapezia nominat. (El. Eucl. 31) [...] Itaque possumus quadrilateras figuras, (ut et antiqui Geometrae) dividere in Parallelogrammum, et Trapezium... Trapeziorum quoque aliud quidem habet duo latera opposita parallela, alia vero minime; aliud autem nulla opposita latera habet paralella. (El. Eucl. 32)"
+    },
+    {
+      "id": 273,
+      "label": "Third Sphere"
+    },
+    {
+      "id": 201,
+      "label": "Stella"
+    },
+    {
+      "id": 96,
+      "label": "Figura",
+      "definition": "Figura est, quae sub aliquo, vel aliquibus terminis comprehenditur. Non omnis quantitas terminos possidens Figura dici potest, ne lineam fnitam figuram appellare cogamur : Sed ea solum magnitudines, quae latitudinem habent, nempe superficies terminatae. Et quae profunditatem adeptae quoque sunt, t solida finita, Figurae nomine appellabuntur…. Itaque termini debent quantitatem, quae figura dicitur,a mbire, et non tantum terminare. … Figurae unico comprehensae termino sunt, Circulus, Ellipsis, Sphaera, Sphaeroides, et aliae huiusmodi: Pluribus vero terminis inclusae figurae sunt, Triangulum, Quadratum, cbus, parami, etc. Superifices terminatae nuncupantur figurae planae: Solida autem circumscripta, figurae solidae, sive corporeae."
+    },
+    {
+      "id": 5,
+      "label": "Latin Mathematical Term"
+    },
+    {
+      "id": 108,
+      "label": "Figure"
+    },
+    {
+      "id": 113,
+      "label": "Horizon T",
+      "definition": "Quoniam uero ex decem ſphæræ circulis primarijs Meridianus, atque Horizon ſunt prorſus immobiles in quacunque regione ita ut, etiamſi cœlum primum perpetuo, ac indeſinenter circumferatur, prędicti duo circuli nihilominus immoti omnino concipiãtur, \u0026 firmi. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 237,
+      "label": "Γραμμη",
+      "definition": "Γραμμη δὲ μηκος απλατές. Επιφανείας δὲ πέρατα γραμμαί."
+    },
+    {
+      "id": 262,
+      "label": "Fifth Sphere"
+    },
+    {
+      "id": 200,
+      "label": "Sphaera Veneris",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 175,
+      "label": "Rational Movement"
+    },
+    {
+      "id": 40,
+      "label": "Maior Circle"
+    },
+    {
+      "id": 148,
+      "label": "Oblique Sphere"
+    },
+    {
+      "id": 213,
+      "label": "Terminus"
+    },
+    {
+      "id": 77,
+      "label": "Circular Line"
+    },
+    {
+      "id": 93,
+      "label": "Errones",
+      "definition": "Postremo reliquæ ſeptem ſphæræ, quarum ſingulæ ſingulas continent ſtellas, planetarum ſtellæ uocantur, quoniam deferunt ſtellas, ſiue aſtra, qui planetæ ſunt dicti, id eſt, aſtra erratica, ſeu Errones, non quòd ita in cœlo oberrent, ut non ordinato, certo, \u0026 determinato motu uehantur: Hac enim ratione non poſſet de illis haberi ſcientia, quod uerum non eſt, cum habeãt certas motuũ periodos: Sed ob id aſtra erratica uocantur, quod neque ipſa inter ſe eandem ſemper habeant diſtantiam, neq. cum ſtellis fixis octaui orbis eundem ſeruent ordinem. [...] Hanc igitur ob cauſam ita ſtellæ in cælo oberrare ui dentur, ut caſu quodam, ac fato agi iudicentur. Quapropter ab Aſtronomis Planetæ meritò nuncupantur. Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 271,
+      "label": "Sixth Sphere"
+    },
+    {
+      "id": 59,
+      "label": "Circulus Minor",
+      "definition": "Minor uerò, qui deſcriptus in ſuperficie ſphęræ eam non diuidit in duo æqualia, ſed in portiones inæquales. [...] Dividit itaque in prima parte circulos omnes ſphæræ in maiores, \u0026 minores, qui ab alijs dicuntur maximi, \u0026 nõ maximi: […] ex minoribus uero, ſiue non maximis, ſolum qua"
+    },
+    {
+      "id": 90,
+      "label": "Equinoctial Circle"
+    },
+    {
+      "id": 53,
+      "label": "Circulus Extrinsecus",
+      "definition": "Hi enim duo [Meridianus, \u0026 Horizon] extrinſeci dicuntur, quia ita in cœlo concipiendi ſunt, ut ſemper firmum ſitum obtineant, \u0026 nulla ratione ad motum cœli circumuoluantur, ſed ſemper in eodem loco permaneant. Qua de cauſa à pleriſque immobiles dicti fuere. (Comm. De Spahera, Cap.2)."
+    },
+    {
+      "id": 133,
+      "label": "Mercury Sphere"
+    },
+    {
+      "id": 233,
+      "label": "World Sphere"
+    },
+    {
+      "id": 41,
+      "label": "Circle Of Celestial Sphere"
+    },
+    {
+      "id": 55,
+      "label": "Circulus Intrinsecus",
+      "definition": "Intrinſeci ſunt, qui in cęlo fixi omnino concipiuntur, ita ut uná cum eo circumducantur. Inde a quibuſdam mobiles nominantur, quales ſunt omnes circuli primarij ſphæræ, excepto Meridiano, \u0026 Horizonte. (Comm. De Sphaera, Cap. 2)"
+    },
+    {
+      "id": 192,
+      "label": "Sphaera Materialis"
+    },
+    {
+      "id": 266,
+      "label": "Hyperbole C"
+    },
+    {
+      "id": 181,
+      "label": "Right Angle"
+    },
+    {
+      "id": 80,
+      "label": "Conchoid Line"
+    },
+    {
+      "id": 109,
+      "label": "Greek Mathematical Term"
+    },
+    {
+      "id": 128,
+      "label": "Linea Perpendicularis",
+      "definition": "Cum vero recta linea super rectam consistens lineam eos, qui sunt deinceps, angulos aequales inter se fecerit, rectus est uterque aequalium angulorum: Et quae insistit recta linea, perpendicularis vocatur eius, cui insistit. Usus frequentissimus reperitur in geometria anguli recti, et linea perpendicularis, nec non anguli obtusi, et acuti, propterea docet hoc loco Euclides, quisnam angulus rectilineus apud Geometras appelletur rectus, et quaenam linea perpendicularis… Non enim alius dari potest angulus rectilineus, pareter rectum, obtusum, et acutum. … Itaque ut in geometria concludamus angulum aliquem esse rectum, aut lineam, quae ipsum efficit, ad aliam esse perpendicularem, requiritur, et sufficit, ut probemus angulum, qui est ei deinceps. Aequalem illi esse. (Eucl. El. 26)"
+    },
+    {
+      "id": 180,
+      "label": "Rhomb"
+    },
+    {
+      "id": 257,
+      "label": "Circulus Per Polos Mudi Ductus"
+    },
+    {
+      "id": 118,
+      "label": "Intrinsic Circle"
+    },
+    {
+      "id": 103,
+      "label": "Figura Solida",
+      "definition": "Figurae unico comprehensae termino sunt, Circulus, Ellipsis, Sphaera, Sphaeroides, et aliae huiusmodi: Pluribus vero terminis inclusae figurae sunt, Triangulum, Quadratum, cbus, parami, etc. Superifices terminatae nuncupantur figurae planae: Solida autem circumscripta, figurae solidae, sive corporeae."
+    },
+    {
+      "id": 215,
+      "label": "Triangulum"
+    },
+    {
+      "id": 73,
+      "label": "Circle"
+    },
+    {
+      "id": 232,
+      "label": "Wandering Star"
+    },
+    {
+      "id": 19,
+      "label": "Antarctic Circle"
+    },
+    {
+      "id": 255,
+      "label": "Jupiter Sphere"
+    },
+    {
+      "id": 64,
+      "label": "Circulus Positionum",
+      "definition": "Circvli poſitionnm, qui per communes ſectiones Horizontis, \u0026 Meridiani, necnon per centrum cuiuſque ſtellæ tranſire definiuntur. (Comm. DE Spaera, Cap. 2)."
+    },
+    {
+      "id": 105,
+      "label": "Fixed Star"
+    },
+    {
+      "id": 210,
+      "label": "Spheroid"
+    },
+    {
+      "id": 28,
+      "label": "Term"
+    },
+    {
+      "id": 30,
+      "label": "Trilateral Figure"
+    },
+    {
+      "id": 223,
+      "label": "Triangulum Scalenum",
+      "definition": "Scalenum vero est, quod tria inaequalia habet latera. (29) […] Hic denique ex inaequalitate omnium laterum trianguli Scaleni colligitur omnium angulorum inaequalitas, ut ostendetur propos. 18. Huius 1. Lib. (El. Eucl. 29)"
+    },
+    {
+      "id": 122,
+      "label": "Linea",
+      "definition": "Linea vero, longitudo latitudinis expers. Definit hic lineam, primam speciem magnitudinis, quam dicit esse quantitatem longam dutaxat, non autem latam intellige neque profundam. A qua enim quanti tate excluditur latitudo, ab eadem etiam necessario profunditas removetur, non autem contra. Lineam autem hanc, sive longitudinem absque latitudine, non absurde concipere, intelligerque poterimus ex termino loci alicuius partim illuminati, atque partim obumbrati. (…) Ut si punctum A, fluere ntelligatur ex A, in B, vestigium effectum AB, linea appellabitur, cum vere intervallum inter duo puncta A atque B, comprehensum sit longitudo quaedam carens omni latitudine, propterea quod punctum A, omni privatum dimensione, eam efficere nulla ratione potuerit. Hinc factum est, ut alii dixerint, lineam nil esse aliud, quam puncti fluxum : Alii, vero, magnitudinem uni cintentam intervallo. Potest enim linea unico tantum modo, utpote secundum longitudinem secari, atque dividi. (Eucl. El. 23)"
+    },
+    {
+      "id": 247,
+      "label": "Κεντρον Του Κικλου",
+      "definition": "Κέντρον δὲ τοῦ κύκλου τὸ σημεῖον καλεῖται."
+    },
+    {
+      "id": 79,
+      "label": "Concave Angle"
+    },
+    {
+      "id": 268,
+      "label": "Planet Sphere"
+    },
+    {
+      "id": 34,
+      "label": "Geometric Entity"
+    },
+    {
+      "id": 125,
+      "label": "Linea Curva"
+    },
+    {
+      "id": 230,
+      "label": "Venus Sphere"
+    },
+    {
+      "id": 132,
+      "label": "Material Sphere"
+    },
+    {
+      "id": 116,
+      "label": "Helicar Line"
+    },
+    {
+      "id": 57,
+      "label": "Circulus Maior",
+      "definition": "Maior autem circulus in ſphæra dicitur, qui deſcriptus in ſuperficie ſphæræ ſuper eius centrum diuidit ſphæram in duo æqualia. [...] Dividit itaque in prima parte circulos omnes ſphæræ in maiores, \u0026 minores, qui ab alijs dicuntur maximi, \u0026 nõ maximi: quorũ definitiones perſpicuæ ſunt in litera Ex maioribus circulis, ſiue maximis auctor noſter in ſecundo hoc capite explicat tantummodo ſex, nempe Aequinoctialem circulũ, Zodiacum, Colurum Solſtitiorum, Colurum æquinoctiorum, Meridianum, atque Horizontem [...](Comm. De Spahera, II)"
+    },
+    {
+      "id": 74,
+      "label": "Curvilinear Figure"
+    },
+    {
+      "id": 4,
+      "label": "Altera Parte Longior Figura"
+    },
+    {
+      "id": 264,
+      "label": "Fourth Sphere"
+    },
+    {
+      "id": 14,
+      "label": "Angulus Planus",
+      "definition": "Planus vero angulus, est duarum linearum in plano se mutuo tangentium, et non in directum iacentium, alterius al alteram inclinatio. Declarat, quidam sit angulus planus, dicens: Quandocunque duae linae in plana aliqua superficie invicem concurrunt, et non in directum constituuntur, efficietur ex huiusmodi concursu, seu inclinatione unius ad alteram, angulus, qui dicitur planus, propterea quod in plana constituatur superficie. (El.E. 25) … Itaque ut linae rectae efficiant angulum, necesse est, ut post concursum productae se mutuo secent (EE 26)"
+    },
+    {
+      "id": 32,
+      "label": "Rectilinear Angle"
+    },
+    {
+      "id": 186,
+      "label": "Solstitial Colure"
+    },
+    {
+      "id": 177,
+      "label": "Rhombus",
+      "definition": "Rhombus autem, quae equilatera, sed rectangula non est. […] habet enim omnia latera aequalia, angulos vero non rectos, et inaequales, quamis bini oppositi inter se aequales existant. (El. Eucl. 31)"
+    },
+    {
+      "id": 236,
+      "label": "Αμβλεια Γωνια",
+      "definition": "Αμβλεια γωνία εστιν η μείζων ορθης."
+    },
+    {
+      "id": 146,
+      "label": "Rectilinear Figure"
+    },
+    {
+      "id": 173,
+      "label": "Solid Figure"
+    },
+    {
+      "id": 82,
+      "label": "Curved Line"
+    },
+    {
+      "id": 209,
+      "label": "Spherical Angle"
+    },
+    {
+      "id": 182,
+      "label": "Right Triangle"
+    },
+    {
+      "id": 206,
+      "label": "Semicircle"
+    },
+    {
+      "id": 251,
+      "label": "Ορος",
+      "definition": "Ορος εστίν, ο τινός εστι πέρας."
+    },
+    {
+      "id": 250,
+      "label": "Ορθη Γωνια",
+      "definition": "Οταν δὲ ευθεια επ ̓ ευθειαν σταθεισα τὰς εφεξης γωνίας ισας αλλήλαις ποιη, ορθη εκατέρα των ισων γωνιων εστι, και η εφεστηκυια ευθεια κάθετος καλειται, εφ ̓ ην εφέστηκεν."
+    },
+    {
+      "id": 110,
+      "label": "Mathematical Term"
+    },
+    {
+      "id": 10,
+      "label": "Angulus Curvilineus",
+      "definition": "Angulus omnis planus conficitur aut ex lineis duabus rectis, qui quidem rectilineus dicitur, et de quo solum hic agit Euclides : aut ex duabus curvis, quem curvilineum vocare licet; aut ex una curva et altera recta, qui non inepte mixtus appellatur. (Eucl. El 26)"
+    },
+    {
+      "id": 71,
+      "label": "Centre Circle"
+    },
+    {
+      "id": 138,
+      "label": "Motus Primus",
+      "definition": "Vnde ſciendum, quod primus motus, di citur motus primi mobilis, hoc eſt, nonę ſphæræ, ſiue cœli ultimi, qui eſt ab oriente per occidentem, rediens iterum in orientem: qui ctiam dicitur motus rationalis, ad ſimilitudinem motus rationis, qui eſt in microcoſmo, id eſt, in homine, ſcilicet quando fit conſider atio à creatore per creatur as in creator em, ibi ſiſtendo. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 166,
+      "label": "Punctum",
+      "definition": "Punctum est, cuius pars nulla est. Ante omia vero euclides more Mathematicorum rem propositam exorditur a principiis, initio facto a definitionibus, quarum prima punctum esplica, docens illud dici punctum in quantitate continua, quod nullas habet partes. Quae equidem definitio planius ac faciulius percipietur, si prius intelligamus, quantitatem continuam triplices habere partes, unam secondum longitudinem, alteras secundum latitudinem, et secundum profunditatem altitudinemve alteras ; quanquam non omnis quantitas omnes has partes habet, sed quaedam unicas tantum secundum longitudinem; quaedam duplices, ita ut illis adiiciat partes etiam latitudinis; quidam denique praeter duplices has partes, tertias quoque altitudinis, sive profunditatis continet. Quantitas enim omnis continua aut longa solum est, aut longa simul, et lata, aut longa, lata atque profunda. Neque aliam dimensionem habere potest res ulla quanta, (…). Itaque quod in quantiate continua, sive magnitudine existit, intelligituraque sine omni parte, ita ut neque longum, neque latum, neque profundum esse cogitetur, (ut nimirum excludamus animam rationalem, Nunc vel Instans temporis, atque unitatem, quae etiam partes non habet) id appellatur ab euclide, atque a Geometris punctum. (...) Denique in magnitudine id concipi debet esse punctum, quod in numero unitas, quodque in tempore instans. Sunt enim et cncipienda individua. (Eucl. El. 23) Lineae autem termini, sunt puncta. Docet, quaenam sint extrema lineae cuiuuis, seu termini, dicens lineam terminari, sive claudi utrinque punctis ; Non quod omnis linea terminos habeat; quomodo enim lineae infinitae terminos assignare poterimus? Qua etiam ratione in linea circulari extremum aliquod deprehendemus? Sed quod linea quaelibet habens extrema, in suis extremitatibus puncta recipiat. Ut superior linea AB, extrema habet puncta A, et B. idemque in omnibus lineis terminatis, ac fnitis intelligendum est, ita ut earum extremitates sola esse puncta cogitemus. (Eucl. El. 23)"
+    },
+    {
+      "id": 218,
+      "label": "Triangulum Amblygonium"
+    },
+    {
+      "id": 115,
+      "label": "Hyperbole",
+      "definition": "Sunt autem plurima genera linearum mistarum: quaedam enim sunt uniformes, quaedam difformes. Uniformium cursus aliae sunt in plano, aliae in solido. In plano sunt Hyperbole, Parabole, Ellipsis, de quibus agit copiosissime Apollonius in conicis elementis; (...). (Eucl. El. 23)"
+    },
+    {
+      "id": 272,
+      "label": "Tenth Sphere"
+    },
+    {
+      "id": 226,
+      "label": "Tropic Of Cancer"
+    },
+    {
+      "id": 76,
+      "label": "Straight Line"
+    },
+    {
+      "id": 274,
+      "label": "Triangulum  Amblygonium",
+      "definition": "Amblygonium autem, quod obtusum angulum habet. Triangulum Amblygonium, sive obtusangulum esse quoque potest vel Isosceles, vel scalenum, ut in his figuris cernitur, non autem aequilaterum, alias eadem ratione essent omnes tre anguli per ea, quae propos. 5. Ostendemus, aequales. Ideoque cum unus ponatur obtusus, omnes res obtusi, quod multo magis pugnat cum propos. 17. Et 32. Huius libri. (El. Eucl. 30)"
+    },
+    {
+      "id": 86,
+      "label": "Declination Circle"
+    },
+    {
+      "id": 100,
+      "label": "Figura Plana",
+      "definition": "Figurae unico comprehensae termino sunt, Circulus, Ellipsis, Sphaera, Sphaeroides, et aliae huiusmodi: Pluribus vero terminis inclusae figurae sunt, Triangulum, Quadratum, cubus, parami, etc. Superifices terminatae nuncupantur figurae planae: Solida autem circumscripta, figurae solidae, sive corporeae."
+    },
+    {
+      "id": 188,
+      "label": "Sphaera"
+    },
+    {
+      "id": 158,
+      "label": "Polus Arcticus",
+      "definition": "VNDE notandum, quòd polus mundi, qui nobis ſemper apparet, dicitur polus ſeptentrionalis, arcticus, uel borealis. Arcticus quidem dicitur ab ἄρκτος, quod eſt urſa. Eſt enim iuxta maiorem urſam. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 172,
+      "label": "Platonic Solid"
+    },
+    {
+      "id": 120,
+      "label": "Isosceles Triangle"
+    },
+    {
+      "id": 165,
+      "label": "Primum Mobile"
+    },
+    {
+      "id": 47,
+      "label": "Circulus Aequinoctii"
+    },
+    {
+      "id": 203,
+      "label": "Sun Sphere"
+    },
+    {
+      "id": 248,
+      "label": "Κυκλος",
+      "definition": "Κύκλος εστι σχημα επίπεδον θπο μιας γραμμης περιεχόμενον [η καλειται περιφέρεια], προς ην αφ ̓ ενος σημείου των εντος τοθ σχήματος κειμένων πασαι αι προσπίπτουσαι ευθειαι [προς την του κύκλου περιφέρειαν] ισαι αλλήλαις εισίν."
+    },
+    {
+      "id": 196,
+      "label": "Sphaera Planetarum",
+      "definition": "Postremo reliquæ ſeptem ſphæræ, quarum ſingulæ ſingulas continent ſtellas, planetarum ſtellæ uocantur, quoniam deferunt ſtellas, ſiue aſtra, qui planetæ ſunt dicti, id eſt, aſtra erratica, ſeu Errones, non quòd ita in cœlo oberrent, ut non ordinato, certo, \u0026 determinato motu uehantur: Hac enim ratione non poſſet de illis haberi ſcientia, quod uerum non eſt, cum habeãt certas motuũ periodos: Sed ob id aſtra erratica uocantur, quod neque ipſa inter ſe eandem ſemper habeant diſtantiam, neq. cum ſtellis fixis octaui orbis eundem ſeruent ordinem. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 155,
+      "label": "Planum"
+    },
+    {
+      "id": 269,
+      "label": "Second Sphere"
+    },
+    {
+      "id": 179,
+      "label": "Rectangle"
+    },
+    {
+      "id": 229,
+      "label": "Triangle"
+    },
+    {
+      "id": 20,
+      "label": "Minor Circle"
+    },
+    {
+      "id": 62,
+      "label": "Circulus Parallelus",
+      "definition": "Nam quilibet maximus habet ſuos parallelos: Vt Horizon habet circulos parallelos circa verticem capitis deſcriptos, qui dici ſolent circuli altitudinum. Aequator habet parallelos circulos circa polos mũdi deſcriptos, cuiuſmodi ſunt illi circuli, quos ſingulæ ſtellæ, \u0026 planetæ, ſiue puncta cęli quælibet, ad motum diurnum deſeribunt quotidie. Zodiacus habet quoq; ſuos parallelos circa polos Zodiaci deſcriptos, quales ſunt ij, quos fingulæ ftellæ \u0026 planetæ, ſeu quælibet puncta cęli, ad motum pro prium nonæ Sphæræ ab occidente in orientem conficiunt. Idemq́ue dicẽdum eſt de alijs circulis maximis. (Comm. De Sphaera, Cap. 2). Appellant enim circulos parallelos eos, quos ſtellæ, \u0026 ſingula cæli puncta ad motum diurnum deſcribũt, quorum omnium maximus eſt, ut conſtat, Aequator. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 35,
+      "label": "Celestial Sphere"
+    },
+    {
+      "id": 228,
+      "label": "Trapezoid"
+    },
+    {
+      "id": 202,
+      "label": "Stella Fixa",
+      "definition": "Quæ quidem ſtellæ non ideo fixę dicuntur, quod non moueantur, aut quod fixę prorſus permaneant. Hoc enim falſum eſt, cum experientia compertum ſit clariſſime, eas moueri, vt ſuo loco dicetur. Neque etiam fixę dicuntur, quòd non moueantur, niſi ad motum orbis, in quo ſunt: Hac enim ratione Planetę quoq. fixi dici deberent, cum ſolum ad motum orbium, in quibus exiſtunt, circunferantur, ut poſtea oſtendemus. Sed ideo appellantur fixę, quod ſemper eundem inter ſe ſitum, ordinem, atque diſtantiam ſervent, quod quidem tum antiquorum Aſtronomorum obſeruationes, puta Prolemęi, Albategnij, cæterorumq́ue, tum etiam recentiorum manife ſtiſſi me nobis declarant. (Comm. De Spahera, Cap."
+    },
+    {
+      "id": 222,
+      "label": "Triangulum Rectangulum",
+      "definition": "Ad haec etiam, trilatera rum figurarum, rectangulum quide triangulum est, quod rectum angulum habet. (El. Eucl. 30)"
+    },
+    {
+      "id": 131,
+      "label": "Planet"
+    },
+    {
+      "id": 67,
+      "label": "Circulus Verticalis",
+      "definition": "Verticales [scil. circuli], qui per uerticem cuiuſlibet loci ad ſingula Horizontis puncta deducuntur. (Comm. De Spahera, Cap. 2)"
+    },
+    {
+      "id": 127,
+      "label": "Linea Mixta",
+      "definition": "Quemadmodum autem matematici per fluxum puncti imaginarium concipiunt describi lineam, ita per qualiattem fluxus puncti qualitatem lineae descriptae intelligunt. Si namque punctum recta fluere concipiatur per brevissimum spatium, ita ut neque in han partem, neque in illam deflectat, sed aequabilem quendam motum, atque incessum teneat, ducetur linea illa descripta, recta : Si vero punctum fluens cogitetur in motu vacillare, atque hinc inde titubare, appellabitur linea descripta mixta (...) (Eucl. El. 23)"
+    },
+    {
+      "id": 216,
+      "label": "Triangulum Acutangulum",
+      "definition": "Omne triangulum oxygonium, sive acutangulum, potest esse vel aequilaterum, vel isosceles, vel scalenum, ut cernere licet in triangulis, quae in specibus prioris divisionis spectanda exhibuimus, ne eadem hic frustra repetantur. (El. Eucl 30)"
+    },
+    {
+      "id": 23,
+      "label": "Arctic Circle"
+    },
+    {
+      "id": 245,
+      "label": "Ισοπλευρον Τριγωνον",
+      "definition": "Των δὲ τριπλεύρων σχημάτων ισόπλευρον μὲν τρίγωνόν εστι το τὰς τρεις ισας εχον πλευράς"
+    },
+    {
+      "id": 91,
+      "label": "Oblique Circle"
+    },
+    {
+      "id": 159,
+      "label": "Polus Australis"
+    },
+    {
+      "id": 167,
+      "label": "Parabola"
+    },
+    {
+      "id": 211,
+      "label": "Square"
+    },
+    {
+      "id": 9,
+      "label": "Angulus Convexus",
+      "definition": "Angulus omnis planus conficitur aut ex lineis duabus rectis, qui quidem rectilineus dicitur, et de quo solum hic agit Euclides : aut ex duabus curvis, quem curvilineum vocare licet; aut ex una curva et altera recta, qui non inepte mixtus appellatur. Ex hisce porro lineis possunt curvilinei anguli tribus variari modis, et mixti duobus, pro varia inclinatione, seu abitudine linearum curvarum, utpote secundum convexum, concavum, ceu in propositis angulis plane, et aperte perspicitur."
+    },
+    {
+      "id": 152,
+      "label": "Parabole",
+      "definition": "Sunt autem plurima genera linearum mistarum: quaedam enim sunt uniformes, quaedam difformes. Uniformium cursus aliae sunt in plano, aliae in solido. In plano sunt Hyperbole, Parabole, Ellipsis, de quibus agit copiosissime Apollonius in conicis elementis; (...). (Eucl. El. 23)"
+    },
+    {
+      "id": 191,
+      "label": "Sphaera Martis",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 25,
+      "label": "Aster Erraticum",
+      "definition": "Postremo reliquæ ſeptem ſphæræ, quarum ſingulæ ſingulas continent ſtellas, planetarum ſtellæ uocantur, quoniam deferunt ſtellas, ſiue aſtra, qui planetæ ſunt dicti, id eſt, aſtra erratica, ſeu Errones, non quòd ita in cœlo oberrent, ut non ordinato, certo, \u0026 determinato motu uehantur: Hac enim ratione non poſſet de illis haberi ſcientia, quod uerum non eſt, cum habeãt certas motuũ periodos: Sed ob id aſtra erratica uocantur, quod neque ipſa inter ſe eandem ſemper habeant diſtantiam, neq. cum ſtellis fixis octaui orbis eundem ſeruent ordinem. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 98,
+      "label": "Figura Mixta",
+      "definition": "Εas (scilicet figuras) vero, quαe partim curvis, partim rectis circumscribitur, appellari mixtas. (El. Eucl 29)"
+    },
+    {
+      "id": 142,
+      "label": "Mixed Figure"
+    },
+    {
+      "id": 242,
+      "label": "Ευθεια Γραμμη",
+      "definition": "Ευθεια γραμμή εστιν, ητις εξ ισου τοις εφ ̓ αυτης σημείοις κειται."
+    },
+    {
+      "id": 126,
+      "label": "Linea Helica",
+      "definition": "Sunt autem plurima genera linearum mistarum: quaedam enim sunt uniformes, quaedam difformes. Uniformium cursus aliae sunt in plano, aliae in solido. In plano sunt Hyperbole,Parabole,Ellipsis, de quibus agit copiosissime Apollonius in conicis elementis; linea Conchoideos, de qua Nicomedes; linea Helica, de qua Archimedes in libro de lineis spiralibus tractationem instituit, et aliae huiusmodi. In solido, seu superficie curva sunt alterius generis lineae helicae, quam ea ab Archimede descripta, qualis est illa, quae circa cylindrum aliquem convoluitur; nec non ea, quae circa conum existit, vel etiam quae circa sphaeram, cuiusmodi sunt spirae illae, quas sol describit ab ortu in occasum , ut in sphaera docuimus. (Eucl. El. 23)"
+    },
+    {
+      "id": 149,
+      "label": "Orbis Aequationis Diei"
+    },
+    {
+      "id": 97,
+      "label": "Figura Curvilinea",
+      "definition": "Ex quo perspicuum est, figuras planas curvis lineis comprehensas, dici curvilineas. (El. Eucl. 29)"
+    },
+    {
+      "id": 162,
+      "label": "Polus Mundi",
+      "definition": "Iſta duo puncta in Firmamento ſtabilia, dicuntur poli mundi. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 249,
+      "label": "Οξεια Γωνια",
+      "definition": "Οξεια δὲ η ελάσσων ορθης."
+    },
+    {
+      "id": 24,
+      "label": "Aster"
+    },
+    {
+      "id": 1,
+      "label": "Aequator Diei Ac Noctis"
+    },
+    {
+      "id": 150,
+      "label": "Obtusangle Triangle"
+    },
+    {
+      "id": 168,
+      "label": "Parallelogram"
+    },
+    {
+      "id": 31,
+      "label": "Acute Angle"
+    },
+    {
+      "id": 258,
+      "label": "Colurus Æquinoctiorum"
+    },
+    {
+      "id": 26,
+      "label": "Astronomical Concept"
+    },
+    {
+      "id": 141,
+      "label": "Motus Sensualis",
+      "definition": "Secundus motus eſt firmamenti, \u0026 planetarum, contrarius huic, ab occidente per orientem iterum rediens in occidentem: qui motus dicitur irrationalis, ſiue ſenſualis, ad ſimilitudinem motus microcoſmi, qui eſt à corruptibilibus ad creatorem, iterum rediens ad corruptibilia. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 244,
+      "label": "Ημικυκλιον",
+      "definition": "̔Ημικύκλιον δέ εστι το περιεχόμενον σχημα υπό τε της διαμέτρου και της απολαμβανομένης θπ ̓ αθτης περιφερείας. [κέντρον δὲ του ημικυκλίου το αυτό, ο και του κύκλου εστίν.]"
+    },
+    {
+      "id": 169,
+      "label": "Quadrilater Figure"
+    },
+    {
+      "id": 22,
+      "label": "Primary Circle"
+    },
+    {
+      "id": 153,
+      "label": "Parallelogrammum",
+      "definition": "Parallelogrammum est figura quadrilatera, cuius bina opposita latera sunt paralella, seu aequidistantia. […] Sunt autem quatuor solum parallelogramma; quadratum, figura altera parte longior, Rhombus, et Rhomboides, quorum priora duo rectangula, quod omnes angulos habeant rectos, posteriora vero duo non rectangula vocantur, quod nullus in eis angulus esista rectus. […] Itaque possumus quadrilateras figuras, (ut et antiqui Geometrae) dividere in Parallelogrammum, et Trapezium. Parallelogrammum cursus in rectangulum, at aequilaterum, quale est Quadratum : in nec rectangulum, nec aequilaterum, quale est Rhomboides; in rectangulum, sed non aequilaterum, quali est figura altera parte longior. Et in aequilateru, sed non rectangulum, cuiusmodi est Rhombus. (El. Eucl. 32)"
+    },
+    {
+      "id": 66,
+      "label": "Circulus Sphaerae"
+    },
+    {
+      "id": 220,
+      "label": "Triangulum Obtusangulum",
+      "definition": "Triangulum Amblygonium, sive obtusangulum esse quoque potest vel Isosceles, vel scalenum, ut in his figuris cernitur, non autem aequilaterum, alias eadem ratione essent omnes tre anguli per ea, quae propos. 5. Ostendemus, aequales. Ideoque cum unus ponatur obtusus, omnes res obtusi, quod multo magis pugnat cum propos. 17. Et 32. Huius libri. (El. Eucl. 30)"
+    },
+    {
+      "id": 170,
+      "label": "Perpendicular Angle"
+    },
+    {
+      "id": 197,
+      "label": "Sphaera Recta",
+      "definition": "Secvndvm accidens autem diuiditur in ſphæram rectam, \u0026 ſphæram obliquam. Illi autem dicuntur habere ſphæram rectam, qui manent ſub Aequinoctiali, ſi aliquis ibi manere poſſit. Et dicitur eis recta, quia neuter polorum magis altero illis eleuatur. Vel quoniam eorum Horizon interſecat Aequino ctialem, \u0026 interſecatur ab eodem ad angulos rectos ſphærales. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 246,
+      "label": "Ισοσκελες Τριγωνον",
+      "definition": "[Των δὲ τριπλεύρων σχημάτων ισοσκελὲς τρίγωνόν εστι] Ισοσκελὲς δὲ το τὰς δύο μόνας ισας εχον πλευράς (vedi def. precedente trilaterarum figurarum)"
+    },
+    {
+      "id": 238,
+      "label": "Διαμετρος Του Κυκλου",
+      "definition": "Διάμετρος δὲ τοθ κύκλου εστιν ευθειά τις διὰ του κέντρου ηγμένη και περατουμένη εφ ̓ εκάτερα τὰ μέρη υπο της τοῦ κύκλου περιφερείας, ητις και δίχα τέμνει τον κύκλον."
+    },
+    {
+      "id": 58,
+      "label": "Circulus Maximus",
+      "definition": "Dicvntvr in ſphæra illi circuli, qui idem cum ſphæra centrum poſſident, maximi, ſiue maiores, quia, ut demonſtrat Theodoſius lib. 1. propoſ. 6. circuli, qui per ſphæræ centrum dncuntur, ſunt omnium maximi, ita ut maior illis dari non poſſit: quemadmodum etiam linea, quæ in circulo aliquo per cẽtrum ducitur, nempe diameter, eſt omnium maxima. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 198,
+      "label": "Sphaera Saturni",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 225,
+      "label": "Tropicus Capricorni"
+    },
+    {
+      "id": 241,
+      "label": "Επιφανεια",
+      "definition": "Επιφάνεια δέ εστιν, ο μηκος και πλάτος μόνον εχει. Επιφανείας δὲ πέρατα γραμμαί."
+    },
+    {
+      "id": 195,
+      "label": "Sphaera Obliqua",
+      "definition": "Illiuero dicuntur habere ſphæram obliquam, quicunque habitant citra Aequinoctialem, uel ultra. Illis enim ſupra Horizontem alter polorum ſemper eleuatur, alter uero ſemper deprimitur: Vel quoniam illorum Horizon artificialis interſecat Aequinoctialem, \u0026 interſecatur ab eodem ad angulos impares, \u0026 obliquos. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 261,
+      "label": "Ellipsis C"
+    },
+    {
+      "id": 87,
+      "label": "Diameter Circuli",
+      "definition": "Diameter autem circuli, est recta quaedam linea per centrum ducta, \u0026 ex utraque parte in circuli peripheriam terminata, quae circulum bifariam secat. […] unde plures assignari potuerunt in circulo diametri, unum vero centrum duntaxat. Quod autem Euclides addit, circulum utpote per centrum, ducitur. Hinc enim fit, ut propter directum diametri per centrum transitum, utrinque aequales circumferentiae abscindantur. (dimostrato da Talete)… […] Ex hac demonstratione constat, diametrum non solum circumferentia, verumetiam totam aream circoli ecare binaria. (28)"
+    },
+    {
+      "id": 253,
+      "label": "Σχημα",
+      "definition": "Σχημά εστι το υπό τινος η τινων ορων περιεχόμενον."
+    },
+    {
+      "id": 104,
+      "label": "Figura Trilatera",
+      "definition": "Trilaterae quidem, quae sub tribus. Affirmans Euclides, eas rectilineas figuras dici trilateras, qaue tribus rectis lineis circumscribitur, aperte nobis annui, quonam modo triangulum definiri debeat. Cum enim in rectilineis figuris tot sint anguli, quo latera, seu rectae lineae, ex quibus constant, dicetur triangulum, figura tribus rectis lineis contenta, cuius omnes species iam iam adducentur. (29)"
+    },
+    {
+      "id": 187,
+      "label": "South Pole"
+    },
+    {
+      "id": 193,
+      "label": "Sphaera Mercurii",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 17,
+      "label": "Angulus Solidus",
+      "definition": "Sunt et alia duo genera angulorum, quorum prius solidos comprehendit, de quibus Euclides differit in Stereometria, quique in corporibus existunt; posterius vero sphaerales, qui in superficie sphaere constituuntue ex circulorum maximorum circumferentis, er de quibus copiose agitur in sphaericis elementis Menelai. Horum autem omnium explicatio in alium locum a nobis reiicitur, cum hic de solis planis angulis sit futurus sermo. (Eucl. El. 26)"
+    },
+    {
+      "id": 33,
+      "label": "Angle"
+    },
+    {
+      "id": 43,
+      "label": "Circle Of World-poles"
+    },
+    {
+      "id": 61,
+      "label": "Circulus Obliquus",
+      "definition": "Obliquos cireulos uocat eos, qui circulos parallelos, quos ſecãt, ad angulos inæquales, \u0026 obliquos ſecant: quales ſunt apud ipſum Zodiacus, \u0026 circulus lacteus, quibus adiungendus eſt Horizon quicunque obliquu"
+    },
+    {
+      "id": 130,
+      "label": "Mars Sphere"
+    },
+    {
+      "id": 205,
+      "label": "Scalene Triangle"
+    },
+    {
+      "id": 72,
+      "label": "Punct"
+    },
+    {
+      "id": 119,
+      "label": "Irrational Movement"
+    },
+    {
+      "id": 69,
+      "label": "Colurus Solstitiorum"
+    },
+    {
+      "id": 88,
+      "label": "Dinostratus Line"
+    },
+    {
+      "id": 199,
+      "label": "Sphaera Solis",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 260,
+      "label": "Eleventh Sphere"
+    },
+    {
+      "id": 171,
+      "label": "Perpendicular Line"
+    },
+    {
+      "id": 174,
+      "label": "Quadratum",
+      "definition": "Quadrilaterarum autem figurarum, quadratum quidem est, quod \u0026 aequilaterum, \u0026 rectangulum est. […] Prima figura quadrilatera dicitur Quadratum, cuius quidem omnia quatuor latera inter se aequalia existunt, omnesque anguli recti. Itaque quadrangulum aequilaterum, et non rectangulum. (El. Eucl. 30)"
+    },
+    {
+      "id": 84,
+      "label": "Plane Angle"
+    },
+    {
+      "id": 145,
+      "label": "Multilateral Figure"
+    },
+    {
+      "id": 12,
+      "label": "Angulus Obtusus",
+      "definition": "Obtusus angulus est, qui recto maior est. (Eucl. El. 25) Obtusus vero, et acutus augeri possunt, et minui infinitis modis, cum ab illa inflexibilitate lineae perpendicularis infinitis etiam modis recta linea possit recedere, ut perspicuum est. (Eucl. El. 26)"
+    },
+    {
+      "id": 161,
+      "label": "Polus Meridionalis"
+    },
+    {
+      "id": 189,
+      "label": "Sphaera Iovis",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 243,
+      "label": "Ευθυγραμμος Γωνια",
+      "definition": "Οταν δὲ αι περιέχουσαι των γωνίαν γραμμαι ευθειαι ωσιν, ευθύγραμμος καλειται η γωνία."
+    },
+    {
+      "id": 27,
+      "label": "Concept"
+    },
+    {
+      "id": 144,
+      "label": "Mixtilinear Angle"
+    },
+    {
+      "id": 160,
+      "label": "Polus Borealis",
+      "definition": "VNDE notandum, quòd polus mundi, qui nobis ſemper apparet, dicitur polus ſeptentrionalis, arcticus, uel borealis. [...] Borealis uero dicitur, quia eſt in illa parte, à qua uenit Boreas. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 44,
+      "label": "Circulus",
+      "definition": "Circulus, est figura plana sub una linea comprehensa, quae peripheria appellatur, ad quam ab uno puncto eorum, quae intra figuram sunt posita, cadentes omnes rectae lineae inter se sunt aequales. Definit hic circulum, figuram inter planas perfectissimam, docens figuram illam planam, quae unica linea circumscribitur, ad quam lineam omnes rectae lineae ductae ab uno puncto, quod intra figuram existit, sint aequales, vocari circulum. […] Qua vero ratione in circulo punctum illud medium reperiri debeat, docebit Euclides propositione 1. Tertii lib. Adiungit quoque Euclides, lineam estrema circuli, qualis est ABC, appellari Peripheriam, seu, ut Latini exponunt, circumferentiam. Potest circulus etiam hac ratione describi. Circulus est figura plana, quae describitur a linea recta finita circa alterum punctum extremum quiescens circumducta, cum in eundem cursus locum restituta fuerit, unde moveri coeperat. […] Igitur Ellipsis, quamvis figura sit plana una linea circumscripta, tamen quia in ea non datur punctum, a quo ad ipsam lineam terminantem omnes rectae lineae sint aequales, circulus dici nequit."
+    },
+    {
+      "id": 95,
+      "label": "Equilateral Triangle"
+    },
+    {
+      "id": 48,
+      "label": "Circulus Altitudinum",
+      "definition": "Vt Horizon habet circulos parallelos circa verticem capitis deſcriptos, qui dici ſolent circuli altitudinum. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 219,
+      "label": "Triangulum Isosceles",
+      "definition": "Isosceles autem est, quod duo tantum aequalia habet latera.[ …] Ex hanc aequalitate duorum laterum trianguli Isoscelis effcitur, duos angulos super reliquum latus etiam esse aequales, ut demonstrabit Euclides propos. 5. huius libri. (El. Eucl. 29)"
+    },
+    {
+      "id": 60,
+      "label": "Circulus Non Maximus",
+      "definition": "Dividit itaque in prima parte circulos omnes ſphæræ in maiores, \u0026 minores, qui ab alijs dicuntur maximi, \u0026 nõ maximi: […] ex minoribus uero, ſiue non maximis, ſolum qua"
+    },
+    {
+      "id": 252,
+      "label": "Περας"
+    },
+    {
+      "id": 8,
+      "label": "Angulus Concavus",
+      "definition": "Angulus omnis planus conficitur aut ex lineis duabus rectis, qui quidem rectilineus dicitur, et de quo solum hic agit Euclides : aut ex duabus curvis, quem curvilineum vocare licet; aut ex una curva et altera recta, qui non inepte mixtus appellatur. Ex hisce porro lineis possunt curvilinei anguli tribus variari modis, et mixti duobus, pro varia inclinatione, seu habitudine linearum curvarum, utpote secundum convexum, concavum, ceu in propositis angulis plane, et aperte perspicitur."
+    },
+    {
+      "id": 7,
+      "label": "Angulus Acutus",
+      "definition": "Acutus vero, qui minor est recto. (Eucl. El. 25). Obtusus vero, et acutus augeri possunt, et minui infinitis modis, cum ab illa inflexibilitate lineae perpendicularis infinitis etiam modis recta linea possit recedere, ut perspicuum est. (Eucl. El. 26)"
+    },
+    {
+      "id": 29,
+      "label": "Acutangle Triangle"
+    },
+    {
+      "id": 101,
+      "label": "Figura Quadrilatera",
+      "definition": "Quadrilaterae quidem, quae sub quator. τετράπλευρα δὲ τὰ ὑπὸ τεσσάρων (vedi def. precedente: rectilineae figurae)"
+    },
+    {
+      "id": 111,
+      "label": "Mathematical Concept"
+    },
+    {
+      "id": 13,
+      "label": "Angulus Perpendicularis",
+      "definition": "Cum vero recta linea super rectam consistens lineam eos, qui sunt deinceps, angulos aequales inter se fecerit, rectus est uterque aequalium angulorum: Et quae insistit recta linea, perpendicularis vocatur eius, cui insistit."
+    },
+    {
+      "id": 75,
+      "label": "Circle Diameter"
+    },
+    {
+      "id": 81,
+      "label": "Convex Angle"
+    },
+    {
+      "id": 52,
+      "label": "Circulus Domorum Coelestium",
+      "definition": "Circvli domomorum cœleftium, qui totum cęlum in 12. partes ſecant, quæ domus cęleſtes di- cuntur. (Comm. De Spaera, Cap. 2)."
+    },
+    {
+      "id": 239,
+      "label": "Επιπεδος Γωνια",
+      "definition": "Επίπεδος δὲ γωνία εστιν η εν επιπέδω δύο γραμμων απτομένων αλλήλων και μη επ ̓ ευθείας κειμένων προς αλλήλας των γραμμων κλίσις."
+    },
+    {
+      "id": 124,
+      "label": "Linea Conchoideos",
+      "definition": "Sunt autem plurima genera linearum mist rum: quaedam enim sunt uniformes, quaedam difformes. Uniformium cursus aliae sunt in plano, aliae in solido. In plano sunt Hyperbole,Parabole,Ellipsis, de quibus agit copiosissime Apollonius in conicis elementis; linea Conchoideos, de qua Nicomedes;(...). (Eucl. El. 23)"
+    },
+    {
+      "id": 140,
+      "label": "Motus Secundus",
+      "definition": "Secundus motus eſt firmamenti, \u0026 planetarum, contrarius huic, ab occidente per orientem iterum rediens in occidentem: qui motus dicitur irrationalis, ſiue ſenſualis, ad ſimilitudinem motus microcoſmi, qui eſt à corruptibilibus ad creatorem, iterum rediens ad corruptibilia. (Comm.De Sphaera, Cap.2)"
+    },
+    {
+      "id": 16,
+      "label": "Angulus Rectus",
+      "definition": "Cum vero recta linea super rectam consistens lineam eos, qui sunt deinceps, angulos aequales inter se fecerit, rectus est uterque aequalium angulorum: Et quae insistit recta linea, perpendicularis vocatur eius, cui insistit. Usus frequentissimus reperitur in geometria anguli recti, et linea perpendicularis, nec non anguli obtusi, et acuti, propterea docet hoc loco Euclides, quisnam angulus rectilineus apud Geometras appelletur rectus, et quaenam linea perpendicularis… Non enim alius dari potest angulus rectilineus, pareter rectum, obtusum, et acutum. … Itaque ut in geometria concludamus angulum aliquem esse rectum, aut lineam, quae ipsum efficit, ad aliam esse perpendicularem, requiritur, et sufficit, ut probemus angulum, qui est ei deinceps. Aequalem illi esse. (Eucl. El. 26)"
+    },
+    {
+      "id": 46,
+      "label": "Circulus Aequinoctialis",
+      "definition": "Et inter maximos primo loco explicat Æquinoctialem circulum, quoniam cognitio eius facilior eſt, \u0026 reliqui fere omnes per ipſum explicari ſolent. Eſt quoque circulus Aequinoctialis omnium nobiliſſimus, cum ſit menſura, ut mox dicetur, motus nobiliſſimi, nem pe primi mobilis; Mouetur enim motu maxime æquabili: Vnde ita ſeſe habet hic circulus cum alijs circulis cœleſtibus comparatus, quemadmodum primum mobile collatum cum alijs orbibus cœleſtibus. Quamobrem Philoſophi primum motorẽ, ideſt, Deum Opt. Max. in circulo Aequinoctiali, tamquam in ſede propria collocabant. Definit igitur circulum Ae quinoctinoctialem dicens, eũ circulũ in ſphæra materiali appellari Aequinoctialem, qui ſphæram in duas partes æquales diuidit, æqualiterq́ue ab utroque polo ſecundum omnem ſui partem diſtat. Atque hic eadem ratione in cœlo erit concipiendus collocari in medio inter duos mundi polos. (Comm. De Sphaera, Cap. 2)"
+    },
+    {
+      "id": 123,
+      "label": "Linea Circularis",
+      "definition": "Quemadmodum autem matematici per fluxum puncti imaginarium concipiunt describi lineam, ita per qualitatem fluxus puncti qualitatem lineae descriptae intelligunt. Si namque punctum recta fluere concipiatur per brevissimum spatium, ita ut neque in han partem, neque in illam deflectat, sed aequabilem quendam motum, atque incessum teneat, ducetur linea illa descripta, recta : Si vero punctum fluens cogitetur in motu vacillare, atque hinc inde titubare, appellabitur linea descripta mixta : si denique punctum fluens in suo motu, non vacillet, sed in orbem feratur uniformi quodam motu, atque distantia certo aliquo puncto, circa quod fertur, vocabitur descripta illa linea, circularis. (Eucl. El. 23)"
+    },
+    {
+      "id": 39,
+      "label": "Circle Of Celestial House"
+    },
+    {
+      "id": 51,
+      "label": "Circulus Declinationis",
+      "definition": "Circvli declinationum, qui per polos mundi, \u0026 ſingula Æquatoris puncta educuntur. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 137,
+      "label": "Motus Irrationalis",
+      "definition": "Secundus motus eſt firmamenti, \u0026 planetarum, contrarius huic, ab occidente per orientem iterum rediens in occidentem: qui motus dicitur irrationalis, ſiue ſenſualis, ad ſimilitudinem motus microcoſmi, qui eſt à corruptibilibus ad creatorem, iterum rediens ad corruptibilia. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 112,
+      "label": "Horizon"
+    },
+    {
+      "id": 21,
+      "label": "Parallel Circle"
+    },
+    {
+      "id": 117,
+      "label": "Inclinatio"
+    },
+    {
+      "id": 221,
+      "label": "Triangulum Oxygonium",
+      "definition": "Oxygonium vero, quod tres habet acutos angulos. Omne triangulum Oxygonium, sive acutangulum, potest esse vel aequilaterum, vel isosceles, vel scalenum, ut cernere licet in triangulis, quae in specie bus prioris divisionis spectanda exhibuimus, ne eadem hic frustra repetantur. (El. Eucl. 30)"
+    },
+    {
+      "id": 240,
+      "label": "Επιπεδος Επιφανεια",
+      "definition": "Επίπεδος επιφάνειά εστιν, ητις εξ ισου ταις εφ ̓αυτης ευθείαις κειται."
+    },
+    {
+      "id": 45,
+      "label": "Circulus Aequidistans",
+      "definition": "Æquidiſtantes circulos appellat eos, quorum poli ijdem ſunt, qui poli mundi; cuiuſmodi ſunt quinque circuli in ſphæra, nimirũ Æequator, tropicus Capricorni , tropicus Cancri, circulus arcticus, \u0026 circulus antarcticus: Hi enim circuli æquidiſtantes ſunt inter ſe, ut conſtat ex propoſ. a. lib. 2. Theodoſij. (Comm. De Spahera, Cap. 2)."
+    },
+    {
+      "id": 49,
+      "label": "Circulus Antarcticus"
+    },
+    {
+      "id": 263,
+      "label": "First Sphere"
+    },
+    {
+      "id": 234,
+      "label": "Zodiac"
+    },
+    {
+      "id": 89,
+      "label": "Ellipsis",
+      "definition": "Sunt autem plurima genera linearum mistarum: quaedam enim sunt uniformes, quaedam difformes. Uniformium cursus aliae sunt in plano, aliae in solido. In plano sunt Hyperbole, Parabole, Ellipsis, de quibus agit copiosissime Apollonius in conicis elementis; (...). (Eucl. El. 23)"
+    },
+    {
+      "id": 194,
+      "label": "Sphaera Mundi",
+      "definition": "SPhaera autem mundi dupliciter diuiditur, ſecundum ſubſtantiam, et ſecundum accidens. Secundum ſubſtantiam, in ſphęras nouem; Scilicet, ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ firmamentum nuncupatur: \u0026 in ſeptem ſphæras ſeptem planetarum quarum quædam ſunt maiores, quędam minores, ſecundum quod plus accedunt uel recedunt à firmamento. Vnde inter illas ſphæras ſphæra Saturni maxima, ſphæra uero Lunæ minima exiſtit. (Comm. De Sphaera, Cap.2)."
+    },
+    {
+      "id": 3,
+      "label": "Aequidialis"
+    },
+    {
+      "id": 134,
+      "label": "Meridian"
+    },
+    {
+      "id": 42,
+      "label": "Circle Of Latitude"
+    },
+    {
+      "id": 36,
+      "label": "Centrum Circuli",
+      "definition": "Centrum circuli. Docet, punctum illud intra circulum,a quo omnes lineae rectae ad circumferentiam ductae sunt aequales, appellari centrum circuli. […] Caeterum, ut punctum aliquod circuli dicatur centrum, satis est, ut ab beo tres duntaxat lineae accidentes in peripheriam sint aequales inter se, ut demonstrat Euclides propositione 9. Lib.3."
+    },
+    {
+      "id": 50,
+      "label": "Circulus Arcticus"
+    },
+    {
+      "id": 231,
+      "label": "Vertical Circle"
+    },
+    {
+      "id": 190,
+      "label": "Sphaera Lunae",
+      "definition": "Diuidit itaque auctor ſphæram ita acceptam in 9. ſphæras nempe in ſphæram nonam, quę primus motus, ſiue primum mobile dicitur: \u0026 in ſphæram ſtellarum fixarum, quæ Firmamentum nuncupatur, \u0026 in ſeptem ſphæras ſeptem planetarum, videlicet in ſphærã Saturni, louis, Martis, Solis, Veneris, Mercurij, \u0026 Lunæ. Hanc tamen diuiſionem paulo poſt examinabimus, quoniam Aſtronomi recentiores plures ſphæras cæleſtes conſtituunt. (Comm. De Sphaera, Cap. 1)."
+    },
+    {
+      "id": 65,
+      "label": "Circulus Primarius",
+      "definition": "Nunc uero in hoc ſecundo cap. explicat decem illos circulos primarios, ex quibus ſphæra materialis componitur, \u0026 cœleſtis ſphæra, cuius gratia hæc inſtituitur, componi intelligitur; quoniam uidelicet ſine his nullo modo cauſæ reddi poſſunt apparentiarum cœleſtium, cuiuſmodi ſunt aſcenſiones, \u0026 deſcenſiones ſignorum, ortus, \u0026 occaſus ſiderum, diuerſitas dierum, ac noctium in diuerſis regionibus \u0026 c. (Comm. De Sphaera, Cap. 2)."
+    },
+    {
+      "id": 94,
+      "label": "Extrinsic Circle"
+    },
+    {
+      "id": 54,
+      "label": "Circulus Horarius",
+      "definition": "Horarii [scil. circuli], qui totum cęlum in 24. horas ſecant, atque hi ſunt in triplici differentia. Aut enim diſtribuunt cęlum in 24. horas æquales, initio facto à meridie, quo pacto incedunt per polos mundi: Aut in 24. horas æquales, incipiendo ab ortu, uel occaſu Solis, qua ratione contingunt duos circulos parallelos, quorũ unus eſt maximus ſemper apparentium, alter uero maximus ſemper occultorum; Aut deniq; in 24. horas inæquales, quando nimirum neque per mundi polos incedũt, neque dictos parallelos contingunt, ſed diuidunt omnia ſegmenta parallelorum ſupra Horizontem, itemq́; infra Horizontem exiſtentia, in 12. partes æquales. (Comm. De Spaera, Cap. 2)."
+    },
+    {
+      "id": 204,
+      "label": "Superficies",
+      "definition": "Superficies est, quem longitudinem, latitudinem tantum habet. (24/25) Post lineam, quae est prima quantitatis continuae species, unicamque habet dimensionem, definit superficiem, quae secundam magnitudinis speciem constituit, additque priame dimensioni secondum longitudinem, alteram secundum latitudinem. Nam in superficie reperitur, non solo longitudo, ut in linea, verum etiam latitudo, sine tamen omni profunditate. (…) Alii describentes superficiem dicunt, eam esse corporis terminum : Alii vero, magnitudinem duobus constantem intervallis. Potest enm superficie dividi, et secari duo bus modis, uno quidem secundum longitudinem, altero evro secundum latitudinem. (Eucl. El. 24/25). Superficiei autem extrema, sunt lineae. (Eucl. El. 25)"
+    },
+    {
+      "id": 92,
+      "label": "Equinoctial Colure"
+    },
+    {
+      "id": 107,
+      "label": "Fluxum"
+    },
+    {
+      "id": 156,
+      "label": "Pole"
+    }
+  ],
+  "links": [
+    {
+      "source": 231,
+      "source_name": "Vertical Circle",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 90,
+      "target_name": "Equinoctial Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 159,
+      "source_name": "Polus Australis",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 171,
+      "source_name": "Perpendicular Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 158,
+      "source_name": "Polus Arcticus",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "hashyponym"
+    },
+    {
+      "source": 122,
+      "source_name": "Linea",
+      "target": 78,
+      "target_name": "Line",
+      "type": "denotes"
+    },
+    {
+      "source": 20,
+      "source_name": "Minor Circle",
+      "target": 59,
+      "target_name": "Circulus Minor",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 274,
+      "source_name": "Triangulum  Amblygonium",
+      "target": 220,
+      "target_name": "Triangulum Obtusangulum",
+      "type": "hasnearsynonym"
+    },
+    {
+      "source": 77,
+      "source_name": "Circular Line",
+      "target": 123,
+      "target_name": "Linea Circularis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 74,
+      "source_name": "Curvilinear Figure",
+      "target": 85,
+      "target_name": "Plane Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 168,
+      "source_name": "Parallelogram",
+      "target": 153,
+      "target_name": "Parallelogrammum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 182,
+      "source_name": "Right Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 178,
+      "source_name": "Right Sphere",
+      "target": 197,
+      "target_name": "Sphaera Recta",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 140,
+      "source_name": "Motus Secundus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 146,
+      "source_name": "Rectilinear Figure",
+      "target": 85,
+      "target_name": "Plane Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 207,
+      "source_name": "Solid Angle",
+      "target": 33,
+      "target_name": "Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 144,
+      "source_name": "Mixtilinear Angle",
+      "target": 11,
+      "target_name": "Angulus Mixtus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 250,
+      "source_name": "Ορθη Γωνια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 257,
+      "source_name": "Circulus Per Polos Mudi Ductus",
+      "target": 275,
+      "target_name": "Circle Of:circle Of World Poles",
+      "type": "denotes"
+    },
+    {
+      "source": 21,
+      "source_name": "Parallel Circle",
+      "target": 62,
+      "target_name": "Circulus Parallelus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 232,
+      "source_name": "Wandering Star",
+      "target": 154,
+      "target_name": "Planeta",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 255,
+      "source_name": "Jupiter Sphere",
+      "target": 189,
+      "target_name": "Sphaera Iovis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 158,
+      "source_name": "Polus Arcticus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 50,
+      "source_name": "Circulus Arcticus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 56,
+      "source_name": "Circulus Latitudinum",
+      "target": 42,
+      "target_name": "Circle Of Latitude",
+      "type": "denotes"
+    },
+    {
+      "source": 157,
+      "source_name": "Polus Antarcticus",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 4,
+      "source_name": "Altera Parte Longior Figura",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 15,
+      "source_name": "Angulus Rectilineus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 210,
+      "source_name": "Spheroid",
+      "target": 74,
+      "target_name": "Curvilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 17,
+      "source_name": "Angulus Solidus",
+      "target": 207,
+      "target_name": "Solid Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 149,
+      "source_name": "Orbis Aequationis Diei",
+      "target": 47,
+      "target_name": "Circulus Aequinoctii",
+      "type": "hassynonym"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 159,
+      "target_name": "Polus Australis",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 231,
+      "source_name": "Vertical Circle",
+      "target": 67,
+      "target_name": "Circulus Verticalis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 89,
+      "source_name": "Ellipsis",
+      "target": 97,
+      "target_name": "Figura Curvilinea",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 37,
+      "target_name": "Cingulus Primi Motus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 139,
+      "source_name": "Motus Rationalis",
+      "target": 175,
+      "target_name": "Rational Movement",
+      "type": "denotes"
+    },
+    {
+      "source": 234,
+      "source_name": "Zodiac",
+      "target": 91,
+      "target_name": "Oblique Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 3,
+      "target_name": "Aequidialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 160,
+      "source_name": "Polus Borealis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 49,
+      "source_name": "Circulus Antarcticus",
+      "target": 59,
+      "target_name": "Circulus Minor",
+      "type": "hashyponym"
+    },
+    {
+      "source": 217,
+      "source_name": "Triangulum Aequilaterum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 133,
+      "source_name": "Mercury Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 258,
+      "source_name": "Colurus Æquinoctiorum",
+      "target": 68,
+      "target_name": "Colurus Aequinoctiorum",
+      "type": "instanceOf"
+    },
+    {
+      "source": 115,
+      "source_name": "Hyperbole",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 45,
+      "source_name": "Circulus Aequidistans",
+      "target": 21,
+      "target_name": "Parallel Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 33,
+      "source_name": "Angle",
+      "target": 6,
+      "target_name": "Angulus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 32,
+      "source_name": "Rectilinear Angle",
+      "target": 84,
+      "target_name": "Plane Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 93,
+      "source_name": "Errones",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 209,
+      "source_name": "Spherical Angle",
+      "target": 33,
+      "target_name": "Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 3,
+      "target_name": "Aequidialis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 172,
+      "source_name": "Platonic Solid",
+      "target": 173,
+      "target_name": "Solid Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 166,
+      "source_name": "Punctum",
+      "target": 72,
+      "target_name": "Punct",
+      "type": "denotes"
+    },
+    {
+      "source": 23,
+      "source_name": "Arctic Circle",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 52,
+      "source_name": "Circulus Domorum Coelestium",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 227,
+      "source_name": "Tropic Of Capricorn",
+      "target": 20,
+      "target_name": "Minor Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 22,
+      "source_name": "Primary Circle",
+      "target": 65,
+      "target_name": "Circulus Primarius",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 96,
+      "source_name": "Figura",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 62,
+      "source_name": "Circulus Parallelus",
+      "target": 45,
+      "target_name": "Circulus Aequidistans",
+      "type": "hassynonym"
+    },
+    {
+      "source": 163,
+      "source_name": "Polus Septentrionalis",
+      "target": 147,
+      "target_name": "North Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 29,
+      "source_name": "Acutangle Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 214,
+      "source_name": "Trapezium",
+      "target": 228,
+      "target_name": "Trapezoid",
+      "type": "denotes"
+    },
+    {
+      "source": 237,
+      "source_name": "Γραμμη",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 128,
+      "source_name": "Linea Perpendicularis",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 262,
+      "source_name": "Fifth Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 140,
+      "source_name": "Motus Secundus",
+      "target": 137,
+      "target_name": "Motus Irrationalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 120,
+      "source_name": "Isosceles Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 144,
+      "source_name": "Mixtilinear Angle",
+      "target": 84,
+      "target_name": "Plane Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 139,
+      "source_name": "Motus Rationalis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 101,
+      "source_name": "Figura Quadrilatera",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 155,
+      "source_name": "Planum",
+      "target": 100,
+      "target_name": "Figura Plana",
+      "type": "hassynonym"
+    },
+    {
+      "source": 137,
+      "source_name": "Motus Irrationalis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 141,
+      "source_name": "Motus Sensualis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 23,
+      "source_name": "Arctic Circle",
+      "target": 50,
+      "target_name": "Circulus Arcticus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 230,
+      "source_name": "Venus Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 58,
+      "source_name": "Circulus Maximus",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "hassynonym"
+    },
+    {
+      "source": 20,
+      "source_name": "Minor Circle",
+      "target": 41,
+      "target_name": "Circle Of Celestial Sphere",
+      "type": "subClassOf"
+    },
+    {
+      "source": 100,
+      "source_name": "Figura Plana",
+      "target": 204,
+      "target_name": "Superficies",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 14,
+      "source_name": "Angulus Planus",
+      "target": 122,
+      "target_name": "Linea",
+      "type": "concerns"
+    },
+    {
+      "source": 206,
+      "source_name": "Semicircle",
+      "target": 184,
+      "target_name": "Semicirculus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 61,
+      "source_name": "Circulus Obliquus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 226,
+      "source_name": "Tropic Of Cancer",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 94,
+      "source_name": "Extrinsic Circle",
+      "target": 53,
+      "target_name": "Circulus Extrinsecus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 175,
+      "source_name": "Rational Movement",
+      "target": 138,
+      "target_name": "Motus Primus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 192,
+      "source_name": "Sphaera Materialis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 25,
+      "source_name": "Aster Erraticum",
+      "target": 154,
+      "target_name": "Planeta",
+      "type": "hassynonym"
+    },
+    {
+      "source": 154,
+      "source_name": "Planeta",
+      "target": 232,
+      "target_name": "Wandering Star",
+      "type": "denotes"
+    },
+    {
+      "source": 68,
+      "source_name": "Colurus Aequinoctiorum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 145,
+      "source_name": "Multilateral Figure",
+      "target": 99,
+      "target_name": "Figura Multilatera",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 196,
+      "source_name": "Sphaera Planetarum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 60,
+      "target_name": "Circulus Non Maximus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 102,
+      "source_name": "Figura Rectilinea",
+      "target": 146,
+      "target_name": "Rectilinear Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 161,
+      "target_name": "Polus Meridionalis",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 46,
+      "target_name": "Circulus Aequinoctialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 84,
+      "source_name": "Plane Angle",
+      "target": 14,
+      "target_name": "Angulus Planus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 149,
+      "target_name": "Orbis Aequationis Diei",
+      "type": "hassynonym"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 1,
+      "target_name": "Aequator Diei Ac Noctis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 59,
+      "target_name": "Circulus Minor",
+      "type": "hassynonym"
+    },
+    {
+      "source": 272,
+      "source_name": "Tenth Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 4,
+      "source_name": "Altera Parte Longior Figura",
+      "target": 101,
+      "target_name": "Figura Quadrilatera",
+      "type": "hassynonym"
+    },
+    {
+      "source": 173,
+      "source_name": "Solid Figure",
+      "target": 103,
+      "target_name": "Figura Solida",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 148,
+      "source_name": "Oblique Sphere",
+      "target": 195,
+      "target_name": "Sphaera Obliqua",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 225,
+      "source_name": "Tropicus Capricorni",
+      "target": 59,
+      "target_name": "Circulus Minor",
+      "type": "hashyponym"
+    },
+    {
+      "source": 158,
+      "source_name": "Polus Arcticus",
+      "target": 147,
+      "target_name": "North Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 4,
+      "source_name": "Altera Parte Longior Figura",
+      "target": 169,
+      "target_name": "Quadrilater Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 23,
+      "source_name": "Arctic Circle",
+      "target": 20,
+      "target_name": "Minor Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 203,
+      "source_name": "Sun Sphere",
+      "target": 199,
+      "target_name": "Sphaera Solis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 90,
+      "target_name": "Equinoctial Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 58,
+      "source_name": "Circulus Maximus",
+      "target": 65,
+      "target_name": "Circulus Primarius",
+      "type": "hashyponym"
+    },
+    {
+      "source": 126,
+      "source_name": "Linea Helica",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 163,
+      "source_name": "Polus Septentrionalis",
+      "target": 158,
+      "target_name": "Polus Arcticus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 149,
+      "target_name": "Orbis Aequationis Diei",
+      "type": "hassynonym"
+    },
+    {
+      "source": 93,
+      "source_name": "Errones",
+      "target": 232,
+      "target_name": "Wandering Star",
+      "type": "denotes"
+    },
+    {
+      "source": 10,
+      "source_name": "Angulus Curvilineus",
+      "target": 83,
+      "target_name": "Curvilinear Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 258,
+      "target_name": "Colurus Æquinoctiorum",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 134,
+      "source_name": "Meridian",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 149,
+      "target_name": "Orbis Aequationis Diei",
+      "type": "hassynonym"
+    },
+    {
+      "source": 106,
+      "source_name": "Star",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 246,
+      "source_name": "Ισοσκελες Τριγωνον",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 226,
+      "source_name": "Tropic Of Cancer",
+      "target": 21,
+      "target_name": "Parallel Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 118,
+      "source_name": "Intrinsic Circle",
+      "target": 55,
+      "target_name": "Circulus Intrinsecus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 43,
+      "source_name": "Circle Of World-poles",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 139,
+      "source_name": "Motus Rationalis",
+      "target": 138,
+      "target_name": "Motus Primus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 201,
+      "source_name": "Stella",
+      "target": 24,
+      "target_name": "Aster",
+      "type": "hassynonym"
+    },
+    {
+      "source": 186,
+      "source_name": "Solstitial Colure",
+      "target": 69,
+      "target_name": "Colurus Solstitiorum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 180,
+      "source_name": "Rhomb",
+      "target": 168,
+      "target_name": "Parallelogram",
+      "type": "subClassOf"
+    },
+    {
+      "source": 166,
+      "source_name": "Punctum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 126,
+      "source_name": "Linea Helica",
+      "target": 116,
+      "target_name": "Helicar Line",
+      "type": "denotes"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 188,
+      "source_name": "Sphaera",
+      "target": 208,
+      "target_name": "Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 179,
+      "source_name": "Rectangle",
+      "target": 168,
+      "target_name": "Parallelogram",
+      "type": "subClassOf"
+    },
+    {
+      "source": 45,
+      "source_name": "Circulus Aequidistans",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 87,
+      "source_name": "Diameter Circuli",
+      "target": 75,
+      "target_name": "Circle Diameter",
+      "type": "denotes"
+    },
+    {
+      "source": 163,
+      "source_name": "Polus Septentrionalis",
+      "target": 160,
+      "target_name": "Polus Borealis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 10,
+      "source_name": "Angulus Curvilineus",
+      "target": 117,
+      "target_name": "Inclinatio",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 157,
+      "target_name": "Polus Antarcticus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 39,
+      "source_name": "Circle Of Celestial House",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 116,
+      "source_name": "Helicar Line",
+      "target": 126,
+      "target_name": "Linea Helica",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 140,
+      "source_name": "Motus Secundus",
+      "target": 141,
+      "target_name": "Motus Sensualis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 244,
+      "source_name": "Ημικυκλιον",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 50,
+      "target_name": "Circulus Arcticus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 66,
+      "source_name": "Circulus Sphaerae",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 50,
+      "target_name": "Circulus Arcticus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 251,
+      "source_name": "Ορος",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 97,
+      "source_name": "Figura Curvilinea",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 153,
+      "source_name": "Parallelogrammum",
+      "target": 168,
+      "target_name": "Parallelogram",
+      "type": "denotes"
+    },
+    {
+      "source": 190,
+      "source_name": "Sphaera Lunae",
+      "target": 136,
+      "target_name": "Moon Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 36,
+      "source_name": "Centrum Circuli",
+      "target": 71,
+      "target_name": "Centre Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 12,
+      "source_name": "Angulus Obtusus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 65,
+      "source_name": "Circulus Primarius",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 207,
+      "source_name": "Solid Angle",
+      "target": 17,
+      "target_name": "Angulus Solidus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 11,
+      "source_name": "Angulus Mixtus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 13,
+      "source_name": "Angulus Perpendicularis",
+      "target": 170,
+      "target_name": "Perpendicular Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 221,
+      "source_name": "Triangulum Oxygonium",
+      "target": 216,
+      "target_name": "Triangulum Acutangulum",
+      "type": "hassynonym"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 149,
+      "target_name": "Orbis Aequationis Diei",
+      "type": "hassynonym"
+    },
+    {
+      "source": 152,
+      "source_name": "Parabole",
+      "target": 167,
+      "target_name": "Parabola",
+      "type": "denotes"
+    },
+    {
+      "source": 21,
+      "source_name": "Parallel Circle",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 170,
+      "source_name": "Perpendicular Angle",
+      "target": 13,
+      "target_name": "Angulus Perpendicularis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 236,
+      "source_name": "Αμβλεια Γωνια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 176,
+      "source_name": "Rectangulum",
+      "target": 179,
+      "target_name": "Rectangle",
+      "type": "denotes"
+    },
+    {
+      "source": 78,
+      "source_name": "Line",
+      "target": 72,
+      "target_name": "Punct",
+      "type": "iscomposedof"
+    },
+    {
+      "source": 227,
+      "source_name": "Tropic Of Capricorn",
+      "target": 21,
+      "target_name": "Parallel Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 155,
+      "source_name": "Planum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 7,
+      "source_name": "Angulus Acutus",
+      "target": 117,
+      "target_name": "Inclinatio",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 96,
+      "source_name": "Figura",
+      "target": 108,
+      "target_name": "Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 161,
+      "source_name": "Polus Meridionalis",
+      "target": 157,
+      "target_name": "Polus Antarcticus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 91,
+      "target_name": "Oblique Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 206,
+      "source_name": "Semicircle",
+      "target": 74,
+      "target_name": "Curvilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 65,
+      "target_name": "Circulus Primarius",
+      "type": "hashyponym"
+    },
+    {
+      "source": 220,
+      "source_name": "Triangulum Obtusangulum",
+      "target": 274,
+      "target_name": "Triangulum  Amblygonium",
+      "type": "hassynonym"
+    },
+    {
+      "source": 93,
+      "source_name": "Errones",
+      "target": 154,
+      "target_name": "Planeta",
+      "type": "hassynonym"
+    },
+    {
+      "source": 253,
+      "source_name": "Σχημα",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 259,
+      "source_name": "Eighth Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 80,
+      "source_name": "Conchoid Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 69,
+      "source_name": "Colurus Solstitiorum",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "hashyponym"
+    },
+    {
+      "source": 81,
+      "source_name": "Convex Angle",
+      "target": 9,
+      "target_name": "Angulus Convexus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 19,
+      "source_name": "Antarctic Circle",
+      "target": 21,
+      "target_name": "Parallel Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 220,
+      "source_name": "Triangulum Obtusangulum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 161,
+      "source_name": "Polus Meridionalis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 173,
+      "source_name": "Solid Figure",
+      "target": 108,
+      "target_name": "Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 14,
+      "source_name": "Angulus Planus",
+      "target": 84,
+      "target_name": "Plane Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 72,
+      "source_name": "Punct",
+      "target": 34,
+      "target_name": "Geometric Entity",
+      "type": "subClassOf"
+    },
+    {
+      "source": 215,
+      "source_name": "Triangulum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 29,
+      "source_name": "Acutangle Triangle",
+      "target": 216,
+      "target_name": "Triangulum Acutangulum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 149,
+      "source_name": "Orbis Aequationis Diei",
+      "target": 3,
+      "target_name": "Aequidialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 149,
+      "source_name": "Orbis Aequationis Diei",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 129,
+      "source_name": "Linea Recta",
+      "target": 76,
+      "target_name": "Straight Line",
+      "type": "denotes"
+    },
+    {
+      "source": 137,
+      "source_name": "Motus Irrationalis",
+      "target": 119,
+      "target_name": "Irrational Movement",
+      "type": "denotes"
+    },
+    {
+      "source": 85,
+      "source_name": "Plane Figure",
+      "target": 100,
+      "target_name": "Figura Plana",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 160,
+      "source_name": "Polus Borealis",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "hashyponym"
+    },
+    {
+      "source": 121,
+      "source_name": "Latus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 18,
+      "source_name": "Angulus Sphaeralis",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 189,
+      "source_name": "Sphaera Iovis",
+      "target": 255,
+      "target_name": "Jupiter Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 62,
+      "source_name": "Circulus Parallelus",
+      "target": 21,
+      "target_name": "Parallel Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 164,
+      "source_name": "Position Circle",
+      "target": 64,
+      "target_name": "Circulus Positionum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 130,
+      "source_name": "Mars Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 154,
+      "source_name": "Planeta",
+      "target": 25,
+      "target_name": "Aster Erraticum",
+      "type": "hassynonym"
+    },
+    {
+      "source": 104,
+      "source_name": "Figura Trilatera",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 197,
+      "source_name": "Sphaera Recta",
+      "target": 178,
+      "target_name": "Right Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 218,
+      "source_name": "Triangulum Amblygonium",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 265,
+      "source_name": "Horizon C",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 106,
+      "source_name": "Star",
+      "target": 201,
+      "target_name": "Stella",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 125,
+      "source_name": "Linea Curva",
+      "target": 82,
+      "target_name": "Curved Line",
+      "type": "denotes"
+    },
+    {
+      "source": 159,
+      "source_name": "Polus Australis",
+      "target": 157,
+      "target_name": "Polus Antarcticus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 24,
+      "source_name": "Aster",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 152,
+      "source_name": "Parabole",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 37,
+      "target_name": "Cingulus Primi Motus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 202,
+      "source_name": "Stella Fixa",
+      "target": 105,
+      "target_name": "Fixed Star",
+      "type": "denotes"
+    },
+    {
+      "source": 7,
+      "source_name": "Angulus Acutus",
+      "target": 31,
+      "target_name": "Acute Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 49,
+      "target_name": "Circulus Antarcticus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 91,
+      "source_name": "Oblique Circle",
+      "target": 61,
+      "target_name": "Circulus Obliquus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 193,
+      "source_name": "Sphaera Mercurii",
+      "target": 196,
+      "target_name": "Sphaera Planetarum",
+      "type": "hashyponym"
+    },
+    {
+      "source": 214,
+      "source_name": "Trapezium",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 113,
+      "source_name": "Horizon T",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 234,
+      "source_name": "Zodiac",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 64,
+      "source_name": "Circulus Positionum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 75,
+      "source_name": "Circle Diameter",
+      "target": 76,
+      "target_name": "Straight Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 155,
+      "source_name": "Planum",
+      "target": 85,
+      "target_name": "Plane Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 25,
+      "source_name": "Aster Erraticum",
+      "target": 232,
+      "target_name": "Wandering Star",
+      "type": "denotes"
+    },
+    {
+      "source": 219,
+      "source_name": "Triangulum Isosceles",
+      "target": 120,
+      "target_name": "Isosceles Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 16,
+      "source_name": "Angulus Rectus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 194,
+      "source_name": "Sphaera Mundi",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 53,
+      "source_name": "Circulus Extrinsecus",
+      "target": 94,
+      "target_name": "Extrinsic Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 185,
+      "source_name": "Solidum",
+      "target": 173,
+      "target_name": "Solid Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 268,
+      "source_name": "Planet Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "instanceOf"
+    },
+    {
+      "source": 159,
+      "source_name": "Polus Australis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 143,
+      "source_name": "Mixed Line",
+      "target": 127,
+      "target_name": "Linea Mixta",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 38,
+      "source_name": "Circle Of Altitude",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 134,
+      "source_name": "Meridian",
+      "target": 135,
+      "target_name": "Meridianus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 185,
+      "source_name": "Solidum",
+      "target": 103,
+      "target_name": "Figura Solida",
+      "type": "hassynonym"
+    },
+    {
+      "source": 112,
+      "source_name": "Horizon",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 193,
+      "source_name": "Sphaera Mercurii",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 105,
+      "source_name": "Fixed Star",
+      "target": 202,
+      "target_name": "Stella Fixa",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 265,
+      "source_name": "Horizon C",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "hashyponym"
+    },
+    {
+      "source": 142,
+      "source_name": "Mixed Figure",
+      "target": 98,
+      "target_name": "Figura Mixta",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 252,
+      "source_name": "Περας",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 47,
+      "target_name": "Circulus Aequinoctii",
+      "type": "hassynonym"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 49,
+      "target_name": "Circulus Antarcticus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 154,
+      "source_name": "Planeta",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 229,
+      "source_name": "Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 63,
+      "source_name": "Circulus Per Polos Mundi Ductus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 70,
+      "source_name": "Corpus Platonicum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 67,
+      "source_name": "Circulus Verticalis",
+      "target": 231,
+      "target_name": "Vertical Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 158,
+      "target_name": "Polus Arcticus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 15,
+      "source_name": "Angulus Rectilineus",
+      "target": 117,
+      "target_name": "Inclinatio",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 52,
+      "source_name": "Circulus Domorum Coelestium",
+      "target": 39,
+      "target_name": "Circle Of Celestial House",
+      "type": "denotes"
+    },
+    {
+      "source": 245,
+      "source_name": "Ισοπλευρον Τριγωνον",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 233,
+      "source_name": "World Sphere",
+      "target": 194,
+      "target_name": "Sphaera Mundi",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 225,
+      "target_name": "Tropicus Capricorni",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 99,
+      "source_name": "Figura Multilatera",
+      "target": 145,
+      "target_name": "Multilateral Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 19,
+      "source_name": "Antarctic Circle",
+      "target": 20,
+      "target_name": "Minor Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 50,
+      "source_name": "Circulus Arcticus",
+      "target": 23,
+      "target_name": "Arctic Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 135,
+      "source_name": "Meridianus",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 24,
+      "source_name": "Aster",
+      "target": 106,
+      "target_name": "Star",
+      "type": "denotes"
+    },
+    {
+      "source": 189,
+      "source_name": "Sphaera Iovis",
+      "target": 196,
+      "target_name": "Sphaera Planetarum",
+      "type": "hashyponym"
+    },
+    {
+      "source": 157,
+      "source_name": "Polus Antarcticus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 199,
+      "source_name": "Sphaera Solis",
+      "target": 203,
+      "target_name": "Sun Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 41,
+      "source_name": "Circle Of Celestial Sphere",
+      "target": 256,
+      "target_name": "Ciculus Sphaerae",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 147,
+      "source_name": "North Pole",
+      "target": 158,
+      "target_name": "Polus Arcticus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 97,
+      "source_name": "Figura Curvilinea",
+      "target": 100,
+      "target_name": "Figura Plana",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 137,
+      "source_name": "Motus Irrationalis",
+      "target": 141,
+      "target_name": "Motus Sensualis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 227,
+      "source_name": "Tropic Of Capricorn",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 89,
+      "source_name": "Ellipsis",
+      "target": 261,
+      "target_name": "Ellipsis C",
+      "type": "denotes"
+    },
+    {
+      "source": 173,
+      "source_name": "Solid Figure",
+      "target": 185,
+      "target_name": "Solidum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 183,
+      "source_name": "Saturn Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 86,
+      "source_name": "Declination Circle",
+      "target": 51,
+      "target_name": "Circulus Declinationis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 170,
+      "source_name": "Perpendicular Angle",
+      "target": 32,
+      "target_name": "Rectilinear Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 187,
+      "source_name": "South Pole",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 92,
+      "source_name": "Equinoctial Colure",
+      "target": 258,
+      "target_name": "Colurus Æquinoctiorum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 99,
+      "source_name": "Figura Multilatera",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 258,
+      "target_name": "Colurus Æquinoctiorum",
+      "type": "hashyponym"
+    },
+    {
+      "source": 12,
+      "source_name": "Angulus Obtusus",
+      "target": 117,
+      "target_name": "Inclinatio",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 23,
+      "source_name": "Arctic Circle",
+      "target": 21,
+      "target_name": "Parallel Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 36,
+      "source_name": "Centrum Circuli",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 115,
+      "source_name": "Hyperbole",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 14,
+      "source_name": "Angulus Planus",
+      "target": 117,
+      "target_name": "Inclinatio",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 54,
+      "source_name": "Circulus Horarius",
+      "target": 114,
+      "target_name": "Hour Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 10,
+      "source_name": "Angulus Curvilineus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 138,
+      "source_name": "Motus Primus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 115,
+      "source_name": "Hyperbole",
+      "target": 266,
+      "target_name": "Hyperbole C",
+      "type": "denotes"
+    },
+    {
+      "source": 158,
+      "source_name": "Polus Arcticus",
+      "target": 160,
+      "target_name": "Polus Borealis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 103,
+      "source_name": "Figura Solida",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 90,
+      "target_name": "Equinoctial Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 268,
+      "source_name": "Planet Sphere",
+      "target": 232,
+      "target_name": "Wandering Star",
+      "type": "contains"
+    },
+    {
+      "source": 115,
+      "source_name": "Hyperbole",
+      "target": 127,
+      "target_name": "Linea Mixta",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 151,
+      "source_name": "Obtuse Angle",
+      "target": 32,
+      "target_name": "Rectilinear Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 202,
+      "source_name": "Stella Fixa",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 46,
+      "target_name": "Circulus Aequinoctialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 116,
+      "source_name": "Helicar Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 211,
+      "source_name": "Square",
+      "target": 181,
+      "target_name": "Right Angle",
+      "type": "iscomposedof"
+    },
+    {
+      "source": 232,
+      "source_name": "Wandering Star",
+      "target": 25,
+      "target_name": "Aster Erraticum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 263,
+      "source_name": "First Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 185,
+      "source_name": "Solidum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 239,
+      "source_name": "Επιπεδος Γωνια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 189,
+      "source_name": "Sphaera Iovis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 209,
+      "source_name": "Spherical Angle",
+      "target": 18,
+      "target_name": "Angulus Sphaeralis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 1,
+      "source_name": "Aequator Diei Ac Noctis",
+      "target": 3,
+      "target_name": "Aequidialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 20,
+      "target_name": "Minor Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 187,
+      "source_name": "South Pole",
+      "target": 157,
+      "target_name": "Polus Antarcticus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 174,
+      "source_name": "Quadratum",
+      "target": 211,
+      "target_name": "Square",
+      "type": "denotes"
+    },
+    {
+      "source": 123,
+      "source_name": "Linea Circularis",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 127,
+      "source_name": "Linea Mixta",
+      "target": 107,
+      "target_name": "Fluxum",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 58,
+      "source_name": "Circulus Maximus",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 140,
+      "source_name": "Motus Secundus",
+      "target": 119,
+      "target_name": "Irrational Movement",
+      "type": "denotes"
+    },
+    {
+      "source": 22,
+      "source_name": "Primary Circle",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 55,
+      "source_name": "Circulus Intrinsecus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 148,
+      "source_name": "Oblique Sphere",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 226,
+      "source_name": "Tropic Of Cancer",
+      "target": 224,
+      "target_name": "Tropicus Cancri",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 73,
+      "source_name": "Circle",
+      "target": 74,
+      "target_name": "Curvilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 228,
+      "source_name": "Trapezoid",
+      "target": 168,
+      "target_name": "Parallelogram",
+      "type": "subClassOf"
+    },
+    {
+      "source": 9,
+      "source_name": "Angulus Convexus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 190,
+      "source_name": "Sphaera Lunae",
+      "target": 196,
+      "target_name": "Sphaera Planetarum",
+      "type": "hashyponym"
+    },
+    {
+      "source": 30,
+      "source_name": "Trilateral Figure",
+      "target": 146,
+      "target_name": "Rectilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 204,
+      "source_name": "Superficies",
+      "target": 212,
+      "target_name": "Surface",
+      "type": "denotes"
+    },
+    {
+      "source": 69,
+      "source_name": "Colurus Solstitiorum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 100,
+      "source_name": "Figura Plana",
+      "target": 85,
+      "target_name": "Plane Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 69,
+      "target_name": "Colurus Solstitiorum",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 65,
+      "target_name": "Circulus Primarius",
+      "type": "hashyponym"
+    },
+    {
+      "source": 124,
+      "source_name": "Linea Conchoideos",
+      "target": 80,
+      "target_name": "Conchoid Line",
+      "type": "denotes"
+    },
+    {
+      "source": 194,
+      "source_name": "Sphaera Mundi",
+      "target": 233,
+      "target_name": "World Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 133,
+      "source_name": "Mercury Sphere",
+      "target": 193,
+      "target_name": "Sphaera Mercurii",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 157,
+      "source_name": "Polus Antarcticus",
+      "target": 159,
+      "target_name": "Polus Australis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 38,
+      "source_name": "Circle Of Altitude",
+      "target": 48,
+      "target_name": "Circulus Altitudinum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 103,
+      "source_name": "Figura Solida",
+      "target": 185,
+      "target_name": "Solidum",
+      "type": "hassynonym"
+    },
+    {
+      "source": 228,
+      "source_name": "Trapezoid",
+      "target": 214,
+      "target_name": "Trapezium",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 132,
+      "source_name": "Material Sphere",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "iscomposedof"
+    },
+    {
+      "source": 19,
+      "source_name": "Antarctic Circle",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 254,
+      "source_name": "Jupiter\u0027jupiter\u0027jupiter Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 49,
+      "source_name": "Circulus Antarcticus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 169,
+      "source_name": "Quadrilater Figure",
+      "target": 146,
+      "target_name": "Rectilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 274,
+      "source_name": "Triangulum  Amblygonium",
+      "target": 218,
+      "target_name": "Triangulum Amblygonium",
+      "type": "instanceOf"
+    },
+    {
+      "source": 85,
+      "source_name": "Plane Figure",
+      "target": 108,
+      "target_name": "Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 1,
+      "target_name": "Aequator Diei Ac Noctis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 192,
+      "source_name": "Sphaera Materialis",
+      "target": 132,
+      "target_name": "Material Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 143,
+      "source_name": "Mixed Line",
+      "target": 72,
+      "target_name": "Punct",
+      "type": "iscomposedof"
+    },
+    {
+      "source": 49,
+      "source_name": "Circulus Antarcticus",
+      "target": 19,
+      "target_name": "Antarctic Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 6,
+      "source_name": "Angulus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 235,
+      "source_name": "Zodiacus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 151,
+      "source_name": "Obtuse Angle",
+      "target": 12,
+      "target_name": "Angulus Obtusus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 83,
+      "source_name": "Curvilinear Angle",
+      "target": 10,
+      "target_name": "Angulus Curvilineus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 216,
+      "source_name": "Triangulum Acutangulum",
+      "target": 29,
+      "target_name": "Acutangle Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 232,
+      "source_name": "Wandering Star",
+      "target": 106,
+      "target_name": "Star",
+      "type": "subClassOf"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 41,
+      "target_name": "Circle Of Celestial Sphere",
+      "type": "subClassOf"
+    },
+    {
+      "source": 211,
+      "source_name": "Square",
+      "target": 174,
+      "target_name": "Quadratum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 143,
+      "source_name": "Mixed Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 200,
+      "source_name": "Sphaera Veneris",
+      "target": 196,
+      "target_name": "Sphaera Planetarum",
+      "type": "hashyponym"
+    },
+    {
+      "source": 184,
+      "source_name": "Semicirculus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 275,
+      "source_name": "Circle Of:circle Of World Poles",
+      "target": 43,
+      "target_name": "Circle Of World-poles",
+      "type": "instanceOf"
+    },
+    {
+      "source": 7,
+      "source_name": "Angulus Acutus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 93,
+      "source_name": "Errones",
+      "target": 25,
+      "target_name": "Aster Erraticum",
+      "type": "hassynonym"
+    },
+    {
+      "source": 156,
+      "source_name": "Pole",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 160,
+      "source_name": "Polus Borealis",
+      "target": 163,
+      "target_name": "Polus Septentrionalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 46,
+      "target_name": "Circulus Aequinoctialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 161,
+      "source_name": "Polus Meridionalis",
+      "target": 159,
+      "target_name": "Polus Australis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 42,
+      "source_name": "Circle Of Latitude",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 273,
+      "source_name": "Third Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 104,
+      "source_name": "Figura Trilatera",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 268,
+      "source_name": "Planet Sphere",
+      "target": 196,
+      "target_name": "Sphaera Planetarum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 71,
+      "source_name": "Centre Circle",
+      "target": 36,
+      "target_name": "Centrum Circuli",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 107,
+      "source_name": "Fluxum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 156,
+      "source_name": "Pole",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 105,
+      "source_name": "Fixed Star",
+      "target": 106,
+      "target_name": "Star",
+      "type": "subClassOf"
+    },
+    {
+      "source": 138,
+      "source_name": "Motus Primus",
+      "target": 139,
+      "target_name": "Motus Rationalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 62,
+      "source_name": "Circulus Parallelus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 147,
+      "source_name": "North Pole",
+      "target": 160,
+      "target_name": "Polus Borealis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 131,
+      "source_name": "Planet",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 92,
+      "source_name": "Equinoctial Colure",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 174,
+      "source_name": "Quadratum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 113,
+      "source_name": "Horizon T",
+      "target": 265,
+      "target_name": "Horizon C",
+      "type": "denotes"
+    },
+    {
+      "source": 20,
+      "source_name": "Minor Circle",
+      "target": 60,
+      "target_name": "Circulus Non Maximus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 225,
+      "source_name": "Tropicus Capricorni",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 78,
+      "source_name": "Line",
+      "target": 122,
+      "target_name": "Linea",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 234,
+      "source_name": "Zodiac",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 212,
+      "source_name": "Surface",
+      "target": 34,
+      "target_name": "Geometric Entity",
+      "type": "subClassOf"
+    },
+    {
+      "source": 12,
+      "source_name": "Angulus Obtusus",
+      "target": 151,
+      "target_name": "Obtuse Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 215,
+      "source_name": "Triangulum",
+      "target": 229,
+      "target_name": "Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 163,
+      "source_name": "Polus Septentrionalis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 1,
+      "target_name": "Aequator Diei Ac Noctis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 147,
+      "source_name": "North Pole",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 47,
+      "target_name": "Circulus Aequinoctii",
+      "type": "hassynonym"
+    },
+    {
+      "source": 11,
+      "source_name": "Angulus Mixtus",
+      "target": 144,
+      "target_name": "Mixtilinear Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 159,
+      "source_name": "Polus Australis",
+      "target": 187,
+      "target_name": "South Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 257,
+      "source_name": "Circulus Per Polos Mudi Ductus",
+      "target": 63,
+      "target_name": "Circulus Per Polos Mundi Ductus",
+      "type": "instanceOf"
+    },
+    {
+      "source": 127,
+      "source_name": "Linea Mixta",
+      "target": 143,
+      "target_name": "Mixed Line",
+      "type": "denotes"
+    },
+    {
+      "source": 243,
+      "source_name": "Ευθυγραμμος Γωνια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 248,
+      "source_name": "Κυκλος",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 200,
+      "source_name": "Sphaera Veneris",
+      "target": 230,
+      "target_name": "Venus Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 58,
+      "source_name": "Circulus Maximus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 191,
+      "source_name": "Sphaera Martis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 16,
+      "source_name": "Angulus Rectus",
+      "target": 181,
+      "target_name": "Right Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 89,
+      "source_name": "Ellipsis",
+      "target": 74,
+      "target_name": "Curvilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 65,
+      "target_name": "Circulus Primarius",
+      "type": "hashyponym"
+    },
+    {
+      "source": 69,
+      "source_name": "Colurus Solstitiorum",
+      "target": 186,
+      "target_name": "Solstitial Colure",
+      "type": "denotes"
+    },
+    {
+      "source": 113,
+      "source_name": "Horizon T",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "hashyponym"
+    },
+    {
+      "source": 85,
+      "source_name": "Plane Figure",
+      "target": 155,
+      "target_name": "Planum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 135,
+      "target_name": "Meridianus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 269,
+      "source_name": "Second Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 19,
+      "source_name": "Antarctic Circle",
+      "target": 49,
+      "target_name": "Circulus Antarcticus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 9,
+      "source_name": "Angulus Convexus",
+      "target": 81,
+      "target_name": "Convex Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 108,
+      "source_name": "Figure",
+      "target": 96,
+      "target_name": "Figura",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 208,
+      "source_name": "Sphere",
+      "target": 74,
+      "target_name": "Curvilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 46,
+      "target_name": "Circulus Aequinoctialis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 48,
+      "source_name": "Circulus Altitudinum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 79,
+      "source_name": "Concave Angle",
+      "target": 33,
+      "target_name": "Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 91,
+      "source_name": "Oblique Circle",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 195,
+      "source_name": "Sphaera Obliqua",
+      "target": 148,
+      "target_name": "Oblique Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 205,
+      "source_name": "Scalene Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 125,
+      "source_name": "Linea Curva",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 124,
+      "source_name": "Linea Conchoideos",
+      "target": 127,
+      "target_name": "Linea Mixta",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 157,
+      "source_name": "Polus Antarcticus",
+      "target": 161,
+      "target_name": "Polus Meridionalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 69,
+      "source_name": "Colurus Solstitiorum",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 225,
+      "target_name": "Tropicus Capricorni",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 229,
+      "source_name": "Triangle",
+      "target": 215,
+      "target_name": "Triangulum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 149,
+      "target_name": "Orbis Aequationis Diei",
+      "type": "hassynonym"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 90,
+      "target_name": "Equinoctial Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 48,
+      "source_name": "Circulus Altitudinum",
+      "target": 38,
+      "target_name": "Circle Of Altitude",
+      "type": "denotes"
+    },
+    {
+      "source": 271,
+      "source_name": "Sixth Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 160,
+      "source_name": "Polus Borealis",
+      "target": 158,
+      "target_name": "Polus Arcticus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 199,
+      "source_name": "Sphaera Solis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 73,
+      "source_name": "Circle",
+      "target": 44,
+      "target_name": "Circulus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 3,
+      "target_name": "Aequidialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 136,
+      "source_name": "Moon Sphere",
+      "target": 190,
+      "target_name": "Sphaera Lunae",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 135,
+      "source_name": "Meridianus",
+      "target": 134,
+      "target_name": "Meridian",
+      "type": "denotes"
+    },
+    {
+      "source": 247,
+      "source_name": "Κεντρον Του Κικλου",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 24,
+      "source_name": "Aster",
+      "target": 201,
+      "target_name": "Stella",
+      "type": "hassynonym"
+    },
+    {
+      "source": 74,
+      "source_name": "Curvilinear Figure",
+      "target": 97,
+      "target_name": "Figura Curvilinea",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 1,
+      "target_name": "Aequator Diei Ac Noctis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 203,
+      "source_name": "Sun Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 204,
+      "source_name": "Superficies",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 86,
+      "source_name": "Declination Circle",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 179,
+      "source_name": "Rectangle",
+      "target": 176,
+      "target_name": "Rectangulum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 225,
+      "source_name": "Tropicus Capricorni",
+      "target": 60,
+      "target_name": "Circulus Non Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 101,
+      "source_name": "Figura Quadrilatera",
+      "target": 169,
+      "target_name": "Quadrilater Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 67,
+      "source_name": "Circulus Verticalis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 13,
+      "source_name": "Angulus Perpendicularis",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 224,
+      "target_name": "Tropicus Cancri",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 102,
+      "source_name": "Figura Rectilinea",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 50,
+      "source_name": "Circulus Arcticus",
+      "target": 60,
+      "target_name": "Circulus Non Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 190,
+      "source_name": "Sphaera Lunae",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 181,
+      "source_name": "Right Angle",
+      "target": 32,
+      "target_name": "Rectilinear Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 193,
+      "source_name": "Sphaera Mercurii",
+      "target": 133,
+      "target_name": "Mercury Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 18,
+      "source_name": "Angulus Sphaeralis",
+      "target": 209,
+      "target_name": "Spherical Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 15,
+      "source_name": "Angulus Rectilineus",
+      "target": 32,
+      "target_name": "Rectilinear Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 44,
+      "source_name": "Circulus",
+      "target": 97,
+      "target_name": "Figura Curvilinea",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 264,
+      "source_name": "Fourth Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 159,
+      "source_name": "Polus Australis",
+      "target": 161,
+      "target_name": "Polus Meridionalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 198,
+      "source_name": "Sphaera Saturni",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 249,
+      "source_name": "Οξεια Γωνια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 108,
+      "source_name": "Figure",
+      "target": 34,
+      "target_name": "Geometric Entity",
+      "type": "subClassOf"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 20,
+      "target_name": "Minor Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 183,
+      "source_name": "Saturn Sphere",
+      "target": 198,
+      "target_name": "Sphaera Saturni",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 44,
+      "source_name": "Circulus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 161,
+      "source_name": "Polus Meridionalis",
+      "target": 187,
+      "target_name": "South Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 182,
+      "source_name": "Right Triangle",
+      "target": 222,
+      "target_name": "Triangulum Rectangulum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 8,
+      "source_name": "Angulus Concavus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 266,
+      "source_name": "Hyperbole C",
+      "target": 115,
+      "target_name": "Hyperbole",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 141,
+      "source_name": "Motus Sensualis",
+      "target": 119,
+      "target_name": "Irrational Movement",
+      "type": "denotes"
+    },
+    {
+      "source": 149,
+      "source_name": "Orbis Aequationis Diei",
+      "target": 1,
+      "target_name": "Aequator Diei Ac Noctis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 172,
+      "source_name": "Platonic Solid",
+      "target": 70,
+      "target_name": "Corpus Platonicum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 156,
+      "target_name": "Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 149,
+      "source_name": "Orbis Aequationis Diei",
+      "target": 46,
+      "target_name": "Circulus Aequinoctialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 49,
+      "source_name": "Circulus Antarcticus",
+      "target": 60,
+      "target_name": "Circulus Non Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 168,
+      "source_name": "Parallelogram",
+      "target": 169,
+      "target_name": "Quadrilater Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 233,
+      "source_name": "World Sphere",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 175,
+      "source_name": "Rational Movement",
+      "target": 139,
+      "target_name": "Motus Rationalis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 21,
+      "source_name": "Parallel Circle",
+      "target": 45,
+      "target_name": "Circulus Aequidistans",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 234,
+      "source_name": "Zodiac",
+      "target": 235,
+      "target_name": "Zodiacus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 132,
+      "source_name": "Material Sphere",
+      "target": 192,
+      "target_name": "Sphaera Materialis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 186,
+      "source_name": "Solstitial Colure",
+      "target": 43,
+      "target_name": "Circle Of World-poles",
+      "type": "subClassOf"
+    },
+    {
+      "source": 216,
+      "source_name": "Triangulum Acutangulum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 180,
+      "source_name": "Rhomb",
+      "target": 177,
+      "target_name": "Rhombus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 222,
+      "source_name": "Triangulum Rectangulum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 92,
+      "source_name": "Equinoctial Colure",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 17,
+      "source_name": "Angulus Solidus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 235,
+      "source_name": "Zodiacus",
+      "target": 234,
+      "target_name": "Zodiac",
+      "type": "denotes"
+    },
+    {
+      "source": 50,
+      "source_name": "Circulus Arcticus",
+      "target": 59,
+      "target_name": "Circulus Minor",
+      "type": "hashyponym"
+    },
+    {
+      "source": 30,
+      "source_name": "Trilateral Figure",
+      "target": 104,
+      "target_name": "Figura Trilatera",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 111,
+      "source_name": "Mathematical Concept",
+      "target": 27,
+      "target_name": "Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 32,
+      "source_name": "Rectilinear Angle",
+      "target": 15,
+      "target_name": "Angulus Rectilineus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 141,
+      "source_name": "Motus Sensualis",
+      "target": 137,
+      "target_name": "Motus Irrationalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 153,
+      "source_name": "Parallelogrammum",
+      "target": 101,
+      "target_name": "Figura Quadrilatera",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 205,
+      "source_name": "Scalene Triangle",
+      "target": 223,
+      "target_name": "Triangulum Scalenum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 150,
+      "source_name": "Obtusangle Triangle",
+      "target": 220,
+      "target_name": "Triangulum Obtusangulum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 89,
+      "source_name": "Ellipsis",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 78,
+      "source_name": "Line",
+      "target": 34,
+      "target_name": "Geometric Entity",
+      "type": "subClassOf"
+    },
+    {
+      "source": 221,
+      "source_name": "Triangulum Oxygonium",
+      "target": 29,
+      "target_name": "Acutangle Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 69,
+      "target_name": "Colurus Solstitiorum",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 222,
+      "source_name": "Triangulum Rectangulum",
+      "target": 181,
+      "target_name": "Right Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 47,
+      "target_name": "Circulus Aequinoctii",
+      "type": "hassynonym"
+    },
+    {
+      "source": 42,
+      "source_name": "Circle Of Latitude",
+      "target": 56,
+      "target_name": "Circulus Latitudinum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 37,
+      "target_name": "Cingulus Primi Motus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 124,
+      "source_name": "Linea Conchoideos",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 265,
+      "source_name": "Horizon C",
+      "target": 113,
+      "target_name": "Horizon T",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 163,
+      "target_name": "Polus Septentrionalis",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 76,
+      "source_name": "Straight Line",
+      "target": 129,
+      "target_name": "Linea Recta",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 146,
+      "source_name": "Rectilinear Figure",
+      "target": 102,
+      "target_name": "Figura Rectilinea",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 161,
+      "source_name": "Polus Meridionalis",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 60,
+      "source_name": "Circulus Non Maximus",
+      "target": 224,
+      "target_name": "Tropicus Cancri",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 219,
+      "source_name": "Triangulum Isosceles",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 3,
+      "target_name": "Aequidialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 101,
+      "source_name": "Figura Quadrilatera",
+      "target": 4,
+      "target_name": "Altera Parte Longior Figura",
+      "type": "hassynonym"
+    },
+    {
+      "source": 35,
+      "source_name": "Celestial Sphere",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 112,
+      "source_name": "Horizon",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 75,
+      "source_name": "Circle Diameter",
+      "target": 87,
+      "target_name": "Diameter Circuli",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 134,
+      "source_name": "Meridian",
+      "target": 43,
+      "target_name": "Circle Of World-poles",
+      "type": "subClassOf"
+    },
+    {
+      "source": 123,
+      "source_name": "Linea Circularis",
+      "target": 77,
+      "target_name": "Circular Line",
+      "type": "denotes"
+    },
+    {
+      "source": 224,
+      "source_name": "Tropicus Cancri",
+      "target": 226,
+      "target_name": "Tropic Of Cancer",
+      "type": "denotes"
+    },
+    {
+      "source": 31,
+      "source_name": "Acute Angle",
+      "target": 7,
+      "target_name": "Angulus Acutus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 70,
+      "source_name": "Corpus Platonicum",
+      "target": 172,
+      "target_name": "Platonic Solid",
+      "type": "denotes"
+    },
+    {
+      "source": 149,
+      "source_name": "Orbis Aequationis Diei",
+      "target": 37,
+      "target_name": "Cingulus Primi Motus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 88,
+      "source_name": "Dinostratus Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 118,
+      "source_name": "Intrinsic Circle",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 97,
+      "source_name": "Figura Curvilinea",
+      "target": 74,
+      "target_name": "Curvilinear Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 112,
+      "source_name": "Horizon",
+      "target": 91,
+      "target_name": "Oblique Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 216,
+      "source_name": "Triangulum Acutangulum",
+      "target": 221,
+      "target_name": "Triangulum Oxygonium",
+      "type": "hassynonym"
+    },
+    {
+      "source": 238,
+      "source_name": "Διαμετρος Του Κυκλου",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 65,
+      "source_name": "Circulus Primarius",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 200,
+      "source_name": "Sphaera Veneris",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 142,
+      "source_name": "Mixed Figure",
+      "target": 85,
+      "target_name": "Plane Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 61,
+      "source_name": "Circulus Obliquus",
+      "target": 91,
+      "target_name": "Oblique Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 186,
+      "source_name": "Solstitial Colure",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 5,
+      "source_name": "Latin Mathematical Term",
+      "target": 110,
+      "target_name": "Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 84,
+      "source_name": "Plane Angle",
+      "target": 33,
+      "target_name": "Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 26,
+      "source_name": "Astronomical Concept",
+      "target": 27,
+      "target_name": "Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 153,
+      "source_name": "Parallelogrammum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 217,
+      "source_name": "Triangulum Aequilaterum",
+      "target": 95,
+      "target_name": "Equilateral Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 198,
+      "source_name": "Sphaera Saturni",
+      "target": 183,
+      "target_name": "Saturn Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 110,
+      "source_name": "Mathematical Term",
+      "target": 28,
+      "target_name": "Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 119,
+      "source_name": "Irrational Movement",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 109,
+      "source_name": "Greek Mathematical Term",
+      "target": 110,
+      "target_name": "Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 14,
+      "source_name": "Angulus Planus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 127,
+      "source_name": "Linea Mixta",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 147,
+      "source_name": "North Pole",
+      "target": 163,
+      "target_name": "Polus Septentrionalis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 195,
+      "source_name": "Sphaera Obliqua",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 134,
+      "source_name": "Meridian",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 158,
+      "source_name": "Polus Arcticus",
+      "target": 163,
+      "target_name": "Polus Septentrionalis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 240,
+      "source_name": "Επιπεδος Επιφανεια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 41,
+      "source_name": "Circle Of Celestial Sphere",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 98,
+      "source_name": "Figura Mixta",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 6,
+      "source_name": "Angulus",
+      "target": 33,
+      "target_name": "Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 100,
+      "source_name": "Figura Plana",
+      "target": 155,
+      "target_name": "Planum",
+      "type": "hassynonym"
+    },
+    {
+      "source": 171,
+      "source_name": "Perpendicular Line",
+      "target": 128,
+      "target_name": "Linea Perpendicularis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 220,
+      "source_name": "Triangulum Obtusangulum",
+      "target": 150,
+      "target_name": "Obtusangle Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 160,
+      "source_name": "Polus Borealis",
+      "target": 147,
+      "target_name": "North Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 113,
+      "target_name": "Horizon T",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 178,
+      "source_name": "Right Sphere",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 106,
+      "source_name": "Star",
+      "target": 24,
+      "target_name": "Aster",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 227,
+      "source_name": "Tropic Of Capricorn",
+      "target": 225,
+      "target_name": "Tropicus Capricorni",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 145,
+      "source_name": "Multilateral Figure",
+      "target": 146,
+      "target_name": "Rectilinear Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 94,
+      "source_name": "Extrinsic Circle",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 100,
+      "source_name": "Figura Plana",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 79,
+      "source_name": "Concave Angle",
+      "target": 8,
+      "target_name": "Angulus Concavus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 45,
+      "source_name": "Circulus Aequidistans",
+      "target": 62,
+      "target_name": "Circulus Parallelus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 186,
+      "source_name": "Solstitial Colure",
+      "target": 22,
+      "target_name": "Primary Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 34,
+      "source_name": "Geometric Entity",
+      "target": 111,
+      "target_name": "Mathematical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 221,
+      "source_name": "Triangulum Oxygonium",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 258,
+      "source_name": "Colurus Æquinoctiorum",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 113,
+      "source_name": "Horizon T",
+      "target": 58,
+      "target_name": "Circulus Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 208,
+      "source_name": "Sphere",
+      "target": 188,
+      "target_name": "Sphaera",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 87,
+      "source_name": "Diameter Circuli",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 1,
+      "target_name": "Aequator Diei Ac Noctis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 114,
+      "source_name": "Hour Circle",
+      "target": 54,
+      "target_name": "Circulus Horarius",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 241,
+      "source_name": "Επιφανεια",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 150,
+      "source_name": "Obtusangle Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 164,
+      "source_name": "Position Circle",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 57,
+      "source_name": "Circulus Maior",
+      "target": 235,
+      "target_name": "Zodiacus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 167,
+      "source_name": "Parabola",
+      "target": 152,
+      "target_name": "Parabole",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 95,
+      "source_name": "Equilateral Triangle",
+      "target": 217,
+      "target_name": "Triangulum Aequilaterum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 130,
+      "source_name": "Mars Sphere",
+      "target": 191,
+      "target_name": "Sphaera Martis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 184,
+      "source_name": "Semicirculus",
+      "target": 97,
+      "target_name": "Figura Curvilinea",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 256,
+      "source_name": "Ciculus Sphaerae",
+      "target": 41,
+      "target_name": "Circle Of Celestial Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 98,
+      "source_name": "Figura Mixta",
+      "target": 142,
+      "target_name": "Mixed Figure",
+      "type": "denotes"
+    },
+    {
+      "source": 136,
+      "source_name": "Moon Sphere",
+      "target": 131,
+      "target_name": "Planet",
+      "type": "subClassOf"
+    },
+    {
+      "source": 223,
+      "source_name": "Triangulum Scalenum",
+      "target": 205,
+      "target_name": "Scalene Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 135,
+      "source_name": "Meridianus",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "hashyponym"
+    },
+    {
+      "source": 224,
+      "source_name": "Tropicus Cancri",
+      "target": 60,
+      "target_name": "Circulus Non Maximus",
+      "type": "hashyponym"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 90,
+      "target_name": "Equinoctial Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 51,
+      "source_name": "Circulus Declinationis",
+      "target": 86,
+      "target_name": "Declination Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 175,
+      "source_name": "Rational Movement",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 265,
+      "source_name": "Horizon C",
+      "target": 112,
+      "target_name": "Horizon",
+      "type": "instanceOf"
+    },
+    {
+      "source": 120,
+      "source_name": "Isosceles Triangle",
+      "target": 219,
+      "target_name": "Triangulum Isosceles",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 184,
+      "source_name": "Semicirculus",
+      "target": 206,
+      "target_name": "Semicircle",
+      "type": "denotes"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 113,
+      "target_name": "Horizon T",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 167,
+      "source_name": "Parabola",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 132,
+      "source_name": "Material Sphere",
+      "target": 26,
+      "target_name": "Astronomical Concept",
+      "type": "subClassOf"
+    },
+    {
+      "source": 71,
+      "source_name": "Centre Circle",
+      "target": 72,
+      "target_name": "Punct",
+      "type": "subClassOf"
+    },
+    {
+      "source": 157,
+      "source_name": "Polus Antarcticus",
+      "target": 187,
+      "target_name": "South Pole",
+      "type": "denotes"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 235,
+      "target_name": "Zodiacus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 169,
+      "source_name": "Quadrilater Figure",
+      "target": 4,
+      "target_name": "Altera Parte Longior Figura",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 169,
+      "source_name": "Quadrilater Figure",
+      "target": 101,
+      "target_name": "Figura Quadrilatera",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 224,
+      "source_name": "Tropicus Cancri",
+      "target": 59,
+      "target_name": "Circulus Minor",
+      "type": "hashyponym"
+    },
+    {
+      "source": 122,
+      "source_name": "Linea",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 138,
+      "source_name": "Motus Primus",
+      "target": 175,
+      "target_name": "Rational Movement",
+      "type": "denotes"
+    },
+    {
+      "source": 25,
+      "source_name": "Aster Erraticum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 260,
+      "source_name": "Eleventh Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 152,
+      "source_name": "Parabole",
+      "target": 127,
+      "target_name": "Linea Mixta",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 29,
+      "source_name": "Acutangle Triangle",
+      "target": 221,
+      "target_name": "Triangulum Oxygonium",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 81,
+      "source_name": "Convex Angle",
+      "target": 33,
+      "target_name": "Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 72,
+      "source_name": "Punct",
+      "target": 166,
+      "target_name": "Punctum",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 242,
+      "source_name": "Ευθεια Γραμμη",
+      "target": 109,
+      "target_name": "Greek Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 47,
+      "target_name": "Circulus Aequinoctii",
+      "type": "hassynonym"
+    },
+    {
+      "source": 92,
+      "source_name": "Equinoctial Colure",
+      "target": 43,
+      "target_name": "Circle Of World-poles",
+      "type": "subClassOf"
+    },
+    {
+      "source": 2,
+      "source_name": "Astronomical Term",
+      "target": 28,
+      "target_name": "Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 33,
+      "source_name": "Angle",
+      "target": 34,
+      "target_name": "Geometric Entity",
+      "type": "subClassOf"
+    },
+    {
+      "source": 270,
+      "source_name": "Seventh Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 3,
+      "source_name": "Aequidialis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 177,
+      "source_name": "Rhombus",
+      "target": 180,
+      "target_name": "Rhomb",
+      "type": "denotes"
+    },
+    {
+      "source": 224,
+      "source_name": "Tropicus Cancri",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 256,
+      "source_name": "Ciculus Sphaerae",
+      "target": 66,
+      "target_name": "Circulus Sphaerae",
+      "type": "instanceOf"
+    },
+    {
+      "source": 37,
+      "source_name": "Cingulus Primi Motus",
+      "target": 46,
+      "target_name": "Circulus Aequinoctialis",
+      "type": "hassynonym"
+    },
+    {
+      "source": 77,
+      "source_name": "Circular Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 267,
+      "source_name": "Ninth Sphere",
+      "target": 35,
+      "target_name": "Celestial Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 8,
+      "source_name": "Angulus Concavus",
+      "target": 79,
+      "target_name": "Concave Angle",
+      "type": "denotes"
+    },
+    {
+      "source": 64,
+      "source_name": "Circulus Positionum",
+      "target": 164,
+      "target_name": "Position Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 82,
+      "source_name": "Curved Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 82,
+      "source_name": "Curved Line",
+      "target": 125,
+      "target_name": "Linea Curva",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 212,
+      "source_name": "Surface",
+      "target": 204,
+      "target_name": "Superficies",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 196,
+      "source_name": "Sphaera Planetarum",
+      "target": 268,
+      "target_name": "Planet Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 83,
+      "source_name": "Curvilinear Angle",
+      "target": 84,
+      "target_name": "Plane Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 46,
+      "source_name": "Circulus Aequinoctialis",
+      "target": 37,
+      "target_name": "Cingulus Primi Motus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 44,
+      "source_name": "Circulus",
+      "target": 73,
+      "target_name": "Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 177,
+      "source_name": "Rhombus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 122,
+      "source_name": "Linea",
+      "target": 107,
+      "target_name": "Fluxum",
+      "type": "hasotherdenomination"
+    },
+    {
+      "source": 128,
+      "source_name": "Linea Perpendicularis",
+      "target": 171,
+      "target_name": "Perpendicular Line",
+      "type": "denotes"
+    },
+    {
+      "source": 47,
+      "source_name": "Circulus Aequinoctii",
+      "target": 37,
+      "target_name": "Cingulus Primi Motus",
+      "type": "hassynonym"
+    },
+    {
+      "source": 211,
+      "source_name": "Square",
+      "target": 169,
+      "target_name": "Quadrilater Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 51,
+      "source_name": "Circulus Declinationis",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 135,
+      "source_name": "Meridianus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 114,
+      "source_name": "Hour Circle",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 95,
+      "source_name": "Equilateral Triangle",
+      "target": 30,
+      "target_name": "Trilateral Figure",
+      "type": "subClassOf"
+    },
+    {
+      "source": 163,
+      "source_name": "Polus Septentrionalis",
+      "target": 162,
+      "target_name": "Polus Mundi",
+      "type": "hashyponym"
+    },
+    {
+      "source": 162,
+      "source_name": "Polus Mundi",
+      "target": 160,
+      "target_name": "Polus Borealis",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 230,
+      "source_name": "Venus Sphere",
+      "target": 200,
+      "target_name": "Sphaera Veneris",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 258,
+      "source_name": "Colurus Æquinoctiorum",
+      "target": 92,
+      "target_name": "Equinoctial Colure",
+      "type": "denotes"
+    },
+    {
+      "source": 150,
+      "source_name": "Obtusangle Triangle",
+      "target": 274,
+      "target_name": "Triangulum  Amblygonium",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 53,
+      "source_name": "Circulus Extrinsecus",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 135,
+      "target_name": "Meridianus",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 188,
+      "source_name": "Sphaera",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 258,
+      "source_name": "Colurus Æquinoctiorum",
+      "target": 57,
+      "target_name": "Circulus Maior",
+      "type": "hashyponym"
+    },
+    {
+      "source": 129,
+      "source_name": "Linea Recta",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 255,
+      "source_name": "Jupiter Sphere",
+      "target": 254,
+      "target_name": "Jupiter\u0027jupiter\u0027jupiter Sphere",
+      "type": "instanceOf"
+    },
+    {
+      "source": 165,
+      "source_name": "Primum Mobile",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 11,
+      "source_name": "Angulus Mixtus",
+      "target": 117,
+      "target_name": "Inclinatio",
+      "type": "hashyperonym"
+    },
+    {
+      "source": 197,
+      "source_name": "Sphaera Recta",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 55,
+      "source_name": "Circulus Intrinsecus",
+      "target": 118,
+      "target_name": "Intrinsic Circle",
+      "type": "denotes"
+    },
+    {
+      "source": 31,
+      "source_name": "Acute Angle",
+      "target": 32,
+      "target_name": "Rectilinear Angle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 191,
+      "source_name": "Sphaera Martis",
+      "target": 196,
+      "target_name": "Sphaera Planetarum",
+      "type": "hashyponym"
+    },
+    {
+      "source": 176,
+      "source_name": "Rectangulum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 223,
+      "source_name": "Triangulum Scalenum",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 84,
+      "source_name": "Plane Angle",
+      "target": 212,
+      "target_name": "Surface",
+      "type": "isrelatedto"
+    },
+    {
+      "source": 90,
+      "source_name": "Equinoctial Circle",
+      "target": 40,
+      "target_name": "Maior Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 181,
+      "source_name": "Right Angle",
+      "target": 16,
+      "target_name": "Angulus Rectus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 40,
+      "source_name": "Maior Circle",
+      "target": 65,
+      "target_name": "Circulus Primarius",
+      "type": "hashyponym"
+    },
+    {
+      "source": 117,
+      "source_name": "Inclinatio",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 119,
+      "source_name": "Irrational Movement",
+      "target": 137,
+      "target_name": "Motus Irrationalis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 225,
+      "source_name": "Tropicus Capricorni",
+      "target": 227,
+      "target_name": "Tropic Of Capricorn",
+      "type": "denotes"
+    },
+    {
+      "source": 201,
+      "source_name": "Stella",
+      "target": 106,
+      "target_name": "Star",
+      "type": "denotes"
+    },
+    {
+      "source": 59,
+      "source_name": "Circulus Minor",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 76,
+      "source_name": "Straight Line",
+      "target": 78,
+      "target_name": "Line",
+      "type": "subClassOf"
+    },
+    {
+      "source": 39,
+      "source_name": "Circle Of Celestial House",
+      "target": 52,
+      "target_name": "Circulus Domorum Coelestium",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 54,
+      "source_name": "Circulus Horarius",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 201,
+      "source_name": "Stella",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 56,
+      "source_name": "Circulus Latitudinum",
+      "target": 2,
+      "target_name": "Astronomical Term",
+      "type": "subClassOf"
+    },
+    {
+      "source": 191,
+      "source_name": "Sphaera Martis",
+      "target": 130,
+      "target_name": "Mars Sphere",
+      "type": "denotes"
+    },
+    {
+      "source": 274,
+      "source_name": "Triangulum  Amblygonium",
+      "target": 150,
+      "target_name": "Obtusangle Triangle",
+      "type": "denotes"
+    },
+    {
+      "source": 226,
+      "source_name": "Tropic Of Cancer",
+      "target": 20,
+      "target_name": "Minor Circle",
+      "type": "subClassOf"
+    },
+    {
+      "source": 261,
+      "source_name": "Ellipsis C",
+      "target": 89,
+      "target_name": "Ellipsis",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 275,
+      "source_name": "Circle Of:circle Of World Poles",
+      "target": 257,
+      "target_name": "Circulus Per Polos Mudi Ductus",
+      "type": "isdenotedby"
+    },
+    {
+      "source": 213,
+      "source_name": "Terminus",
+      "target": 5,
+      "target_name": "Latin Mathematical Term",
+      "type": "subClassOf"
+    }
+  ]
+}
