@@ -11,21 +11,11 @@
   db = Promise.promisifyAll(db);
 
   module.exports = {
-    test: function(graph) {
-      return db.cypherAsync({
-        query: 'WITH {g} AS g UNWIND g.nodes AS n RETURN n',
-        params: {
-          g: graph
-        }
-      }).then(function(data) {
-        return console.log(data);
-      });
-    },
     update_subgraph: function(graph, callback) {
       var tx;
       tx = Promise.promisifyAll(db.beginTransaction());
       return tx.cypherAsync({
-        query: 'MATCH (:META:Source {id: {id}})-[r:CREATED]->(n:Node) OPTIONAL MATCH (n)-[r2]-(:Node) DELETE r,r2,n',
+        query: 'MATCH (:META:Source {id: {id}})-[r:CREATED]->(n:Info) OPTIONAL MATCH (n)-[r2]-(:Info) DELETE r,r2,n',
         params: {
           id: graph.id
         }
@@ -37,16 +27,23 @@
           }
         });
       }).then(function() {
+        graph.nodes.forEach(function(d) {
+          return d.id = graph.id + '::' + d.id;
+        });
         return tx.cypherAsync({
-          query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[r:CREATED]->(x:Node) SET x += n",
+          query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[r:CREATED]->(x:Info) SET x += n",
           params: {
             nodes: graph.nodes,
             id: graph.id
           }
         });
       }).then(function() {
+        graph.links.forEach(function(d) {
+          d.source = graph.id + '::' + d.source;
+          return d.target = graph.id + '::' + d.target;
+        });
         return tx.cypherAsync({
-          query: "WITH {links} AS links UNWIND links AS l MATCH (:META:Source {id: {id}})-[:CREATED]->(s:Node {id: l.source}), (:META:Source {id: {id}})-[:CREATED]->(t:Node {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target",
+          query: "WITH {links} AS links UNWIND links AS l MATCH (:META:Source {id: {id}})-[:CREATED]->(s:Info {id: l.source}), (:META:Source {id: {id}})-[:CREATED]->(t:Info {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target",
           params: {
             links: graph.links,
             id: graph.id
@@ -55,24 +52,6 @@
       }).then(function() {
         return tx.commitAsync();
       }).then(function() {
-        return callback();
-      });
-    },
-    update_subgraph_old: function(graph, callback) {
-      console.log("MERGE (:META:Source {id: '" + graph.source + "'});");
-      console.log("MATCH (:META:Source {id: '" + graph.source + "'})-[r:CREATED]->(n) DELETE r,n;");
-      graph.nodes.forEach(function(d) {
-        return console.log("MATCH (source:META:Source {id: '" + graph.source + "'}) CREATE (source)-[:CREATED]->(" + (JSON.stringify(d)) + ");");
-      });
-      return graph.links.forEach(function(d) {
-        var s, t, type;
-        type = d.type;
-        s = d.source;
-        t = d.target;
-        delete d.type;
-        delete d.source;
-        delete d.target;
-        console.log("MATCH (s {id: '" + s + "'}), (t {id: '" + t + "'}) CREATE (s)-[:" + type + " " + (JSON.stringify(d)) + "]->(t);");
         return callback();
       });
     }
