@@ -21,7 +21,7 @@ module.exports =
     .then () ->
       # prefix all nodes with the source ID
       graph.nodes.forEach (d) ->
-        d.id = graph.id + '::' + d.id
+        d.id = graph.id + '|' + d.id
 
       # create new nodes
       tx.cypherAsync
@@ -32,8 +32,8 @@ module.exports =
     .then () ->
       # prefix all link ends with the source ID
       graph.links.forEach (d) ->
-        d.source = graph.id + '::' + d.source
-        d.target = graph.id + '::' + d.target
+        d.source = graph.id + '|' + d.source
+        d.target = graph.id + '|' + d.target
 
       # create new internal relationships
       tx.cypherAsync

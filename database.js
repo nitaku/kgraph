@@ -28,7 +28,7 @@
         });
       }).then(function() {
         graph.nodes.forEach(function(d) {
-          return d.id = graph.id + '::' + d.id;
+          return d.id = graph.id + '|' + d.id;
         });
         return tx.cypherAsync({
           query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[r:CREATED]->(x:Info) SET x += n",
@@ -39,8 +39,8 @@
         });
       }).then(function() {
         graph.links.forEach(function(d) {
-          d.source = graph.id + '::' + d.source;
-          return d.target = graph.id + '::' + d.target;
+          d.source = graph.id + '|' + d.source;
+          return d.target = graph.id + '|' + d.target;
         });
         return tx.cypherAsync({
           query: "WITH {links} AS links UNWIND links AS l MATCH (:META:Source {id: {id}})-[:CREATED]->(s:Info {id: l.source}), (:META:Source {id: {id}})-[:CREATED]->(t:Info {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target",
