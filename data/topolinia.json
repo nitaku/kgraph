@@ -1,0 +1,15 @@
+{
+  "id": "topolinia",
+  "nodes": [
+    {"id": "1", "template": "character", "label": "Pippo"},
+    {"id": "2", "template": "character", "label": "Topolino"},
+    {"id": "3", "template": "character", "label": "Minnie"},
+    {"id": "4", "template": "character", "label": "Basettoni"}
+  ],
+  "links": [
+    {"source": "1", "target": "2", "type": "knows"},
+    {"source": "2", "target": "3", "type": "knows"},
+    {"source": "4", "target": "2", "type": "knows"},
+    {"source": "1", "target": "3", "type": "knows"}
+  ]
+}

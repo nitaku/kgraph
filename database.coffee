@@ -6,10 +6,32 @@ db = Promise.promisifyAll db
 
 module.exports =
   update_subgraph: (graph, callback) ->
+    # PREPROCESSING
+
+    # prefix all nodes with the source ID
+    graph.nodes.forEach (d) ->
+      d.id = graph.id + '|' + d.id
+
+    # tell apart internal from external links
+    internal_links = []
+    external_links = []
+    graph.links.forEach (d) ->
+      if d.source.includes('|') or d.target.includes('|')
+        external_links.push d
+      else
+        internal_links.push d
+
+    # prefix all internal ends with the source ID
+    graph.links.forEach (d) ->
+      d.source = if d.source.includes('|') then d.source else graph.id + '|' + d.source
+      d.target = if d.target.includes('|') then d.target else graph.id + '|' + d.target
+
+
+    # TRANSACTION
     tx = Promise.promisifyAll db.beginTransaction()
     # delete old graph
     tx.cypherAsync
-      query: 'MATCH (:META:Source {id: {id}})-[r:CREATED]->(n:Info) OPTIONAL MATCH (n)-[r2]-(:Info) DELETE r,r2,n'
+      query: 'MATCH (:META:Source {id: {id}})-[:CREATED]->(n) DETACH DELETE n'
       params:
         id: graph.id
     .then () ->
@@ -19,28 +41,40 @@ module.exports =
         params:
           id: graph.id
     .then () ->
-      # prefix all nodes with the source ID
-      graph.nodes.forEach (d) ->
-        d.id = graph.id + '|' + d.id
-
       # create new nodes
       tx.cypherAsync
-        query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[r:CREATED]->(x:Info) SET x += n"
+        query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[:CREATED]->(x) SET x += n"
         params:
           nodes: graph.nodes
           id: graph.id
     .then () ->
-      # prefix all link ends with the source ID
-      graph.links.forEach (d) ->
-        d.source = graph.id + '|' + d.source
-        d.target = graph.id + '|' + d.target
-
       # create new internal relationships
       tx.cypherAsync
-        query: "WITH {links} AS links UNWIND links AS l MATCH (:META:Source {id: {id}})-[:CREATED]->(s:Info {id: l.source}), (:META:Source {id: {id}})-[:CREATED]->(t:Info {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target"
+        query: "WITH {links} AS links UNWIND links AS l MATCH (s {id: l.source}), (t {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target"
         params:
-          links: graph.links
-          id: graph.id
+          links: internal_links
+    .then () ->
+      # create new frontier nodes for external links
+      tx.cypherAsync
+        query: "WITH {links} AS links UNWIND links AS l MERGE (f:META:Frontier {source: l.source, target: l.target, type: l.type}) SET f += l"
+        params:
+          links: external_links
+    .then () ->
+      # link sources to frontier nodes
+      tx.cypherAsync
+        query: "MATCH (n), (f:META:Frontier {source: n.id}) MERGE (f)-[:SOURCE]->(n)"
+    .then () ->
+      # link targets to frontier nodes
+      tx.cypherAsync
+        query: "MATCH (n), (f:META:Frontier {target: n.id}) MERGE (f)-[:TARGET]->(n)"
+    .then () ->
+      # ensure the existence of a skip link for each frontier node
+      tx.cypherAsync
+        query: "MATCH (n)<-[:SOURCE]-(f:META:Frontier)-[:TARGET]->(m) MERGE (n)-[r:EXTERNAL {type: f.type}]->(m) SET r += f REMOVE r.source REMOVE r.target"
+    .then () ->
+      # delete disconnected frontier nodes
+      tx.cypherAsync
+        query: "MATCH (f:META:Frontier) WHERE NOT (f)--() DELETE f"
     .then () ->
       tx.commitAsync()
     .then () ->

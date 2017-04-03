@@ -7,8 +7,8 @@
 6 silly lifecycle KGraph@~predev: no script for predev, continuing
 7 info lifecycle KGraph@~dev: KGraph@
 8 verbose lifecycle KGraph@~dev: unsafe-perm in lifecycle true
-9 verbose lifecycle KGraph@~dev: PATH: /usr/share/npm/bin/node-gyp-bin:/home/swedv/servers/kgraph/node_modules/.bin:/home/swedv/bin:/home/swedv/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
-10 verbose lifecycle KGraph@~dev: CWD: /home/swedv/servers/kgraph
+9 verbose lifecycle KGraph@~dev: PATH: /usr/share/npm/bin/node-gyp-bin:/home/swedv/kgraph/node_modules/.bin:/home/swedv/bin:/home/swedv/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+10 verbose lifecycle KGraph@~dev: CWD: /home/swedv/kgraph
 11 silly lifecycle KGraph@~dev: Args: [ '-c',
 11 silly lifecycle   'node_modules/coffee-script/bin/./coffee -c *.coffee && node server.js' ]
 12 silly lifecycle KGraph@~dev: Returned: code: 1  signal: null
@@ -24,8 +24,8 @@
 14 verbose stack     at maybeClose (internal/child_process.js:821:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
 15 verbose pkgid KGraph@
-16 verbose cwd /home/swedv/servers/kgraph
-17 error Linux 4.4.0-36-generic
+16 verbose cwd /home/swedv/kgraph
+17 error Linux 4.4.0-65-generic
 18 error argv "/usr/bin/nodejs" "/usr/bin/npm" "run" "dev"
 19 error node v4.2.6
 20 error npm  v3.5.2

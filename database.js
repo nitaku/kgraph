@@ -12,10 +12,26 @@
 
   module.exports = {
     update_subgraph: function(graph, callback) {
-      var tx;
+      var external_links, internal_links, tx;
+      graph.nodes.forEach(function(d) {
+        return d.id = graph.id + '|' + d.id;
+      });
+      internal_links = [];
+      external_links = [];
+      graph.links.forEach(function(d) {
+        if (d.source.includes('|') || d.target.includes('|')) {
+          return external_links.push(d);
+        } else {
+          return internal_links.push(d);
+        }
+      });
+      graph.links.forEach(function(d) {
+        d.source = d.source.includes('|') ? d.source : graph.id + '|' + d.source;
+        return d.target = d.target.includes('|') ? d.target : graph.id + '|' + d.target;
+      });
       tx = Promise.promisifyAll(db.beginTransaction());
       return tx.cypherAsync({
-        query: 'MATCH (:META:Source {id: {id}})-[r:CREATED]->(n:Info) OPTIONAL MATCH (n)-[r2]-(:Info) DELETE r,r2,n',
+        query: 'MATCH (:META:Source {id: {id}})-[:CREATED]->(n) DETACH DELETE n',
         params: {
           id: graph.id
         }
@@ -27,27 +43,42 @@
           }
         });
       }).then(function() {
-        graph.nodes.forEach(function(d) {
-          return d.id = graph.id + '|' + d.id;
-        });
         return tx.cypherAsync({
-          query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[r:CREATED]->(x:Info) SET x += n",
+          query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[:CREATED]->(x) SET x += n",
           params: {
             nodes: graph.nodes,
             id: graph.id
           }
         });
       }).then(function() {
-        graph.links.forEach(function(d) {
-          d.source = graph.id + '|' + d.source;
-          return d.target = graph.id + '|' + d.target;
-        });
         return tx.cypherAsync({
-          query: "WITH {links} AS links UNWIND links AS l MATCH (:META:Source {id: {id}})-[:CREATED]->(s:Info {id: l.source}), (:META:Source {id: {id}})-[:CREATED]->(t:Info {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target",
+          query: "WITH {links} AS links UNWIND links AS l MATCH (s {id: l.source}), (t {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target",
           params: {
-            links: graph.links,
-            id: graph.id
+            links: internal_links
           }
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "WITH {links} AS links UNWIND links AS l MERGE (f:META:Frontier {source: l.source, target: l.target, type: l.type}) SET f += l",
+          params: {
+            links: external_links
+          }
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "MATCH (n), (f:META:Frontier {source: n.id}) MERGE (f)-[:SOURCE]->(n)"
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "MATCH (n), (f:META:Frontier {target: n.id}) MERGE (f)-[:TARGET]->(n)"
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "MATCH (n)<-[:SOURCE]-(f:META:Frontier)-[:TARGET]->(m) MERGE (n)-[r:EXTERNAL {type: f.type}]->(m) SET r += f REMOVE r.source REMOVE r.target"
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "MATCH (f:META:Frontier) WHERE NOT (f)--() DELETE f"
         });
       }).then(function() {
         return tx.commitAsync();
