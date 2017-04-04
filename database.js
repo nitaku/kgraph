@@ -52,6 +52,20 @@
         });
       }).then(function() {
         return tx.cypherAsync({
+          query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.template) SET n:Info",
+          params: {
+            id: graph.id
+          }
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.view) SET n:Space",
+          params: {
+            id: graph.id
+          }
+        });
+      }).then(function() {
+        return tx.cypherAsync({
           query: "WITH {links} AS links UNWIND links AS l MATCH (s {id: l.source}), (t {id: l.target}) CREATE (s)-[r:INTERNAL]->(t) SET r += l REMOVE r.source REMOVE r.target",
           params: {
             links: internal_links

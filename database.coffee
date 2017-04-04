@@ -26,7 +26,6 @@ module.exports =
       d.source = if d.source.includes('|') then d.source else graph.id + '|' + d.source
       d.target = if d.target.includes('|') then d.target else graph.id + '|' + d.target
 
-
     # TRANSACTION
     tx = Promise.promisifyAll db.beginTransaction()
     # delete old graph
@@ -46,6 +45,18 @@ module.exports =
         query: "WITH {nodes} AS nodes MATCH (s:META:Source {id: {id}}) UNWIND nodes AS n CREATE (s)-[:CREATED]->(x) SET x += n"
         params:
           nodes: graph.nodes
+          id: graph.id
+    .then () ->
+      # label Info nodes
+      tx.cypherAsync
+        query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.template) SET n:Info"
+        params:
+          id: graph.id
+    .then () ->
+      # label Info nodes
+      tx.cypherAsync
+        query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.view) SET n:Space"
+        params:
           id: graph.id
     .then () ->
       # create new internal relationships
