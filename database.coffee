@@ -8,6 +8,27 @@ module.exports =
   update_subgraph: (graph, callback) ->
     # PREPROCESSING
 
+    # create all annotation nodes and links
+    if graph.annotations?
+      graph.annotations.forEach (d, i) ->
+        d.id = "__annotation__#{i}" # automatic IDs
+        d.annotation = true
+        graph.nodes.push d
+
+        graph.links.push {
+          source: d.id
+          target: d.target
+          type: 'target'
+        }
+        delete d.target
+
+        graph.links.push {
+          source: d.id
+          target: d.body
+          type: 'body'
+        }
+        delete d.body
+
     # prefix all nodes with the source ID
     graph.nodes.forEach (d) ->
       d.id = graph.id + '|' + d.id
@@ -56,6 +77,12 @@ module.exports =
       # label Info nodes
       tx.cypherAsync
         query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.view) SET n:Space"
+        params:
+          id: graph.id
+    .then () ->
+      # label Annotation nodes
+      tx.cypherAsync
+        query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.annotation) SET n:Annotation REMOVE n.annotation"
         params:
           id: graph.id
     .then () ->

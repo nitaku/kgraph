@@ -13,6 +13,25 @@
   module.exports = {
     update_subgraph: function(graph, callback) {
       var external_links, internal_links, tx;
+      if (graph.annotations != null) {
+        graph.annotations.forEach(function(d, i) {
+          d.id = "__annotation__" + i;
+          d.annotation = true;
+          graph.nodes.push(d);
+          graph.links.push({
+            source: d.id,
+            target: d.target,
+            type: 'target'
+          });
+          delete d.target;
+          graph.links.push({
+            source: d.id,
+            target: d.body,
+            type: 'body'
+          });
+          return delete d.body;
+        });
+      }
       graph.nodes.forEach(function(d) {
         return d.id = graph.id + '|' + d.id;
       });
@@ -60,6 +79,13 @@
       }).then(function() {
         return tx.cypherAsync({
           query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.view) SET n:Space",
+          params: {
+            id: graph.id
+          }
+        });
+      }).then(function() {
+        return tx.cypherAsync({
+          query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.annotation) SET n:Annotation REMOVE n.annotation",
           params: {
             id: graph.id
           }
