@@ -49,11 +49,21 @@ module.exports =
 
     # TRANSACTION
     tx = Promise.promisifyAll db.beginTransaction()
-    # delete old graph
+    # delete old subgraph
     tx.cypherAsync
       query: 'MATCH (:META:Source {id: {id}})-[:CREATED]->(n) DETACH DELETE n'
       params:
         id: graph.id
+    .then () ->
+      # delete all previous links from Source to Frontiers
+      tx.cypherAsync
+        query: "MATCH (:META:Source {id: {id}})-[r:DEFINED]->(n:META:Frontier) DELETE r"
+        params:
+          id: graph.id
+    .then () ->
+      # delete frontier nodes that are disconnected from Sources
+      tx.cypherAsync
+        query: "MATCH (f:META:Frontier) WHERE NOT (f)<-[:DEFINED]-(:META:Source) DETACH DELETE f"
     .then () ->
       # create the source if new
       tx.cypherAsync
@@ -74,7 +84,7 @@ module.exports =
         params:
           id: graph.id
     .then () ->
-      # label Info nodes
+      # label Space nodes
       tx.cypherAsync
         query: "MATCH (:META:Source {id: {id}})-[:CREATED]->(n) WHERE EXISTS(n.view) SET n:Space"
         params:
@@ -98,6 +108,13 @@ module.exports =
         params:
           links: external_links
     .then () ->
+      # link Source node to frontiers
+      tx.cypherAsync
+        query: "WITH {links} AS links UNWIND links AS l MATCH (s:META:Source {id: {id}}), (f:META:Frontier {source: l.source, target: l.target, type: l.type}) MERGE (s)-[:DEFINED]->(f)"
+        params:
+          id: graph.id
+          links: external_links
+    .then () ->
       # link sources to frontier nodes
       tx.cypherAsync
         query: "MATCH (n), (f:META:Frontier {source: n.id}) MERGE (f)-[:SOURCE]->(n)"
@@ -109,10 +126,6 @@ module.exports =
       # ensure the existence of a skip link for each frontier node
       tx.cypherAsync
         query: "MATCH (n)<-[:SOURCE]-(f:META:Frontier)-[:TARGET]->(m) MERGE (n)-[r:EXTERNAL {type: f.type}]->(m) SET r += f REMOVE r.source REMOVE r.target"
-    .then () ->
-      # delete disconnected frontier nodes
-      tx.cypherAsync
-        query: "MATCH (f:META:Frontier) WHERE NOT (f)--() DELETE f"
     .then () ->
       tx.commitAsync()
     .then () ->
