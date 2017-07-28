@@ -29,7 +29,7 @@ module.exports =
         return if typeof d isnt 'string'
 
         parsed = breakdown.parse d
-        d[k+'_plaintext'] = parsed.plain_text
+        node[k+'_plaintext'] = parsed.plain_text
 
         parsed.spans.forEach (span) ->
           a = {

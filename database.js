@@ -32,7 +32,7 @@
             return;
           }
           parsed = breakdown.parse(d);
-          d[k + '_plaintext'] = parsed.plain_text;
+          node[k + '_plaintext'] = parsed.plain_text;
           return parsed.spans.forEach(function(span) {
             var a;
             a = {
