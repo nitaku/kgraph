@@ -4,30 +4,58 @@ db = new neo4j.GraphDatabase 'http://neo4j:c25a2017@localhost:7474' # FIXME read
 Promise = require('bluebird')
 db = Promise.promisifyAll db
 
+breakdown = require('./breakdown.js')
+
 module.exports =
   update_subgraph: (graph, callback) ->
     # PREPROCESSING
+    
+    # normalize input
+    if not graph.nodes?
+      graph.nodes = []
 
+    if not graph.links?
+      graph.links = []
+
+    if not graph.annotations?
+      graph.annotations = []
+
+    # parse all strings in all nodes to find BreakDown annotations
+    # WARNING this assumes a flat graph (i.e., strings within nested
+    #   objects or arrays are not parsed)
+    graph.nodes.forEach (node) ->
+      Object.keys(node).forEach (k) ->
+        d = node[k]
+        return if typeof d isnt 'string'
+
+        parsed = breakdown.parse d
+        d[k+'_plaintext'] = parsed.plain_text
+
+        parsed.spans.forEach (span) ->
+          graph.annotations.push {
+            target: node.id
+            body: span.body
+          }
+    
     # create all annotation nodes and links
-    if graph.annotations?
-      graph.annotations.forEach (d, i) ->
-        d.id = "__annotation__#{i}" # automatic IDs
-        d.annotation = true
-        graph.nodes.push d
+    graph.annotations.forEach (d, i) ->
+      d.id = "__annotation__#{i}" # automatic IDs
+      d.annotation = true
+      graph.nodes.push d
 
-        graph.links.push {
-          source: d.id
-          target: d.target
-          type: 'target'
-        }
-        delete d.target
+      graph.links.push {
+        source: d.id
+        target: d.target
+        type: 'target'
+      }
+      delete d.target
 
-        graph.links.push {
-          source: d.id
-          target: d.body
-          type: 'body'
-        }
-        delete d.body
+      graph.links.push {
+        source: d.id
+        target: d.body
+        type: 'body'
+      }
+      delete d.body
 
     # prefix all nodes with the source ID
     graph.nodes.forEach (d) ->
