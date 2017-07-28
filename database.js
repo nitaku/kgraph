@@ -34,10 +34,14 @@
           parsed = breakdown.parse(d);
           d[k + '_plaintext'] = parsed.plain_text;
           return parsed.spans.forEach(function(span) {
-            return graph.annotations.push({
-              target: node.id,
-              body: span.body
-            });
+            var a;
+            a = {
+              target: node.id
+            };
+            if (span.body != null) {
+              a.body = span.body;
+            }
+            return graph.annotations.push(a);
           });
         });
       });
@@ -51,12 +55,14 @@
           type: 'target'
         });
         delete d.target;
-        graph.links.push({
-          source: d.id,
-          target: d.body,
-          type: 'body'
-        });
-        return delete d.body;
+        if (d.body != null) {
+          graph.links.push({
+            source: d.id,
+            target: d.body,
+            type: 'body'
+          });
+          return delete d.body;
+        }
       });
       graph.nodes.forEach(function(d) {
         return d.id = graph.id + '|' + d.id;

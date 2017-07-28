@@ -32,10 +32,15 @@ module.exports =
         d[k+'_plaintext'] = parsed.plain_text
 
         parsed.spans.forEach (span) ->
-          graph.annotations.push {
+          a = {
             target: node.id
-            body: span.body
           }
+
+          # body is optional in BreakDown (see web annotation data model: 3.2.6 Cardinality of Bodies and Targets)
+          if span.body?
+            a.body = span.body
+
+          graph.annotations.push a
     
     # create all annotation nodes and links
     graph.annotations.forEach (d, i) ->
@@ -50,12 +55,14 @@ module.exports =
       }
       delete d.target
 
-      graph.links.push {
-        source: d.id
-        target: d.body
-        type: 'body'
-      }
-      delete d.body
+      # body is optional in web annotation data model (see 3.2.6 Cardinality of Bodies and Targets)
+      if d.body?
+        graph.links.push {
+          source: d.id
+          target: d.body
+          type: 'body'
+        }
+        delete d.body
 
     # prefix all nodes with the source ID
     graph.nodes.forEach (d) ->
